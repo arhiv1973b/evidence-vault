@@ -1,0 +1,38 @@
+{
+  "hub_branch": "model-hub-sync",
+  "current_gear": 1,
+  "gears": {
+    "1": {
+      "model_name": "models/gemini-3.1-flash-lite",
+      "status": "active",
+      "exhausted_until": null,
+      "cooldown_seconds": 1800,
+      "priority": 1,
+      "load_weight": 0.2
+    },
+    "2": {
+      "model_name": "models/gemini-2.0-flash",
+      "status": "standby",
+      "exhausted_until": null,
+      "cooldown_seconds": 3600,
+      "priority": 2,
+      "load_weight": 0.4
+    },
+    "3": {
+      "model_name": "models/gemini-2.5-flash",
+      "status": "standby",
+      "exhausted_until": null,
+      "cooldown_seconds": 7200,
+      "priority": 3,
+      "load_weight": 0.6
+    },
+    "4": {
+      "model_name": "models/gemini-3.5-flash",
+      "status": "standby",
+      "exhausted_until": null,
+      "cooldown_seconds": 86400,
+      "priority": 4,
+      "load_weight": 1.0
+    }
+  }
+}
