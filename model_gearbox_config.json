@@ -8,7 +8,13 @@
       "exhausted_until": null,
       "cooldown_seconds": 1800,
       "priority": 1,
-      "load_weight": 0.2
+      "load_weight": 0.2,
+      "counters": {
+        "total_requests": 0,
+        "success_count": 0,
+        "failure_count": 0,
+        "last_latency_ms": 0.0
+      }
     },
     "2": {
       "model_name": "models/gemini-2.0-flash",
@@ -16,7 +22,13 @@
       "exhausted_until": null,
       "cooldown_seconds": 3600,
       "priority": 2,
-      "load_weight": 0.4
+      "load_weight": 0.4,
+      "counters": {
+        "total_requests": 0,
+        "success_count": 0,
+        "failure_count": 0,
+        "last_latency_ms": 0.0
+      }
     },
     "3": {
       "model_name": "models/gemini-2.5-flash",
@@ -24,7 +36,13 @@
       "exhausted_until": null,
       "cooldown_seconds": 7200,
       "priority": 3,
-      "load_weight": 0.6
+      "load_weight": 0.6,
+      "counters": {
+        "total_requests": 0,
+        "success_count": 0,
+        "failure_count": 0,
+        "last_latency_ms": 0.0
+      }
     },
     "4": {
       "model_name": "models/gemini-3.5-flash",
@@ -32,7 +50,13 @@
       "exhausted_until": null,
       "cooldown_seconds": 86400,
       "priority": 4,
-      "load_weight": 1.0
+      "load_weight": 1.0,
+      "counters": {
+        "total_requests": 0,
+        "success_count": 0,
+        "failure_count": 0,
+        "last_latency_ms": 0.0
+      }
     }
   }
 }
