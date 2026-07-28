@@ -10,10 +10,10 @@
       "priority": 1,
       "load_weight": 0.2,
       "counters": {
-        "total_requests": 4,
-        "success_count": 4,
+        "total_requests": 5,
+        "success_count": 5,
         "failure_count": 0,
-        "last_latency_ms": 3266.8418884277344
+        "last_latency_ms": 2284.2352390289307
       }
     },
     "2": {
