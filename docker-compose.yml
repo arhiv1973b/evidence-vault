@@ -9,13 +9,29 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.50'
+          cpus: '1.0'
+          memory: 512M
+        reservations:
           memory: 256M
     networks:
       - actor-net
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
     volumes:
       - audit_data:/app/.audit
-
+      - /mnt/h/ACTOR_DEV_ENV:/usr/src/app
+    restart: on-failure:3
+    logging:
+      driver: json-file
+      options:
+        max-size: "50m"
+        max-file: "5"
+        labels: "service=actor-app-dev"
+    healthcheck:
+      test: ["CMD", "python3", "-c", "import os; exit(0 if os.path.exists('/app/.audit/events.json') else 1)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
   actor-audit:
     image: anchore/grype:latest
     depends_on:
@@ -27,7 +43,9 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.50'
+          cpus: '1.0'
+          memory: 1G
+        reservations:
           memory: 512M
     networks:
       - actor-net
@@ -35,6 +53,13 @@ services:
       - audit_data:/app:ro
     environment:
       - GRYPE_DB_AUTO_UPDATE=true
+    restart: on-failure:2
+    logging:
+      driver: json-file
+      options:
+        max-size: "100m"
+        max-file: "3"
+        labels: "service=actor-audit"
     entrypoint: ["/grype", "/app", "-o", "table"]
 
 networks:

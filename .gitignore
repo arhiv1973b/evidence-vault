@@ -1,5 +1,5 @@
-﻿# Сначала игнорируем всё
-*
+# Сначала игнорируем всё
+!*
 
 # Но разрешаем нужные файлы и типы
 !/.gitignore
@@ -24,3 +24,9 @@
 *.key
 gemini-api-config.json
 config.json
+
+# Облачные ярлыки Google Drive
+*.gdoc
+*.gsheet
+
+.env.local
