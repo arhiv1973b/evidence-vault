@@ -12,70 +12,44 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-"""Google Antigravity SDK for building AI agents."""
+"""Google Antigravity SDK for building AI agents.
 
-from google.antigravity.agent import Agent
-from google.antigravity.connections.connection import AgentConfig
-from google.antigravity.connections.local.litert_connection_config import LiteRTAgentConfig
-from google.antigravity.connections.local.litert_connection_config import LiteRTBackend
-from google.antigravity.connections.local.local_connection_config import LocalAgentConfig
-from google.antigravity.connections.local.local_openai_connection_config import LocalOpenAIAgentConfig
-from google.antigravity.tools.tool_context import ToolContext
-from google.antigravity.types import Audio
-from google.antigravity.types import BuiltinTools
-from google.antigravity.types import CapabilitiesConfig
-from google.antigravity.types import Content
-from google.antigravity.types import CustomSystemInstructions
-from google.antigravity.types import Document
-from google.antigravity.types import from_file
-from google.antigravity.types import GeminiAPIEndpoint
-from google.antigravity.types import GeminiModelOptions
-from google.antigravity.types import Image
-from google.antigravity.types import ModelAPIRetryConfig
-from google.antigravity.types import ModelEndpoint
-from google.antigravity.types import ModelOutputRetryConfig
-from google.antigravity.types import ModelTarget
-from google.antigravity.types import ModelType
-from google.antigravity.types import RetryConfig
-from google.antigravity.types import SystemInstructions
-from google.antigravity.types import SystemInstructionSection
-from google.antigravity.types import TemplatedSystemInstructions
-from google.antigravity.types import ThinkingLevel
-from google.antigravity.types import ToolExecutionError
-from google.antigravity.types import UsageMetadata
-from google.antigravity.types import VertexEndpoint
-from google.antigravity.types import Video
+Lightweight package initializer that lazily imports heavy submodules to avoid
+side-effects at import time (protection for CLI tools and installers).
+"""
 
-__all__ = [
-    "Agent",
-    "AgentConfig",
-    "LocalAgentConfig",
-    "LiteRTAgentConfig",
-    "LiteRTBackend",
-    "LocalOpenAIAgentConfig",
-    "ToolContext",
-    "Audio",
-    "BuiltinTools",
-    "CapabilitiesConfig",
-    "Content",
-    "CustomSystemInstructions",
-    "Document",
-    "GeminiAPIEndpoint",
-    "GeminiModelOptions",
-    "Image",
-    "ModelAPIRetryConfig",
-    "ModelEndpoint",
-    "ModelOutputRetryConfig",
-    "ModelTarget",
-    "ModelType",
-    "RetryConfig",
-    "SystemInstructions",
-    "SystemInstructionSection",
-    "TemplatedSystemInstructions",
-    "ThinkingLevel",
-    "UsageMetadata",
-    "VertexEndpoint",
-    "Video",
-    "ToolExecutionError",
-    "from_file",
-]
+from importlib import import_module
+from typing import Dict
+
+# Mapping attribute name -> module path and attribute name
+_lazy_map: Dict[str, str] = {
+    "Agent": "google.antigravity.agent:Agent",
+    "AgentConfig": "google.antigravity.connections.connection:AgentConfig",
+    "LiteRTAgentConfig": "google.antigravity.connections.local.litert_connection_config:LiteRTAgentConfig",
+    "LiteRTBackend": "google.antigravity.connections.local.litert_connection_config:LiteRTBackend",
+    "LocalAgentConfig": "google.antigravity.connections.local.local_connection_config:LocalAgentConfig",
+    "LocalOpenAIAgentConfig": "google.antigravity.connections.local.local_openai_connection_config:LocalOpenAIAgentConfig",
+    "ToolContext": "google.antigravity.tools.tool_context:ToolContext",
+    "from_file": "google.antigravity.types:from_file",
+    # types are intentionally resolved lazily because they may import compiled protos.
+}
+
+__all__ = list(_lazy_map.keys())
+
+
+def _load(name: str):
+    """Dynamically import the attribute from its module path."""
+    if name not in _lazy_map:
+        raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
+    mod_path, attr = _lazy_map[name].split(":")
+    module = import_module(mod_path)
+    return getattr(module, attr)
+
+
+def __getattr__(name: str):
+    """PEP 562 lazy attribute access."""
+    return _load(name)
+
+
+def __dir__():
+    return sorted(list(globals().keys()) + __all__)
