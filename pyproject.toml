@@ -66,4 +66,7 @@ include = ["google*"]
 [tool.setuptools.package-data]
 "google.antigravity.bin" = ["*"]
 
+[project.scripts]
+ag = "google.antigravity.cli:main"
+
 
