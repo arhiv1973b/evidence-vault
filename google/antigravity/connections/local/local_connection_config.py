@@ -74,8 +74,10 @@ def normalize_wire_path(path: str) -> str:
   parsed = urllib.parse.urlparse(path)
   if parsed.scheme == "file":
     # urlparse("file:///abs/path").path == "/abs/path"
-    # url2pathname converts URL path to platform-native path
-    return urllib.request.url2pathname(parsed.path)
+    # url2pathname converts URL path to platform-native path, but we normalize
+    # back to forward slashes for consistent cross-platform wire format.
+    pathname = urllib.request.url2pathname(parsed.path)
+    return pathname.replace("\\", "/")
   if parsed.scheme == "cns":
     # urlparse("cns://el-d/home/user/...").netloc == "el-d"
     # urlparse("cns://el-d/home/user/...").path == "/home/user/..."
