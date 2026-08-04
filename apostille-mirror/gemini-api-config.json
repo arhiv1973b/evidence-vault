@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "version": "2.0",
+    "created": "2026-05-17",
+    "case_id": "CASE-MACHERET-1997-2026",
+    "architecture": "TI-ULA",
+    "target_api": "Google Gemini API (generateContent)",
+    "compatible_models": [
+      "gemini-2.0-flash-exp",
+      "gemini-1.5-pro",
+      "gemini-2.5-pro"
+    ],
+    "docs": "https://ai.google.dev/api/generate-content"
+  },
+  "request_template": {
+    "system_instruction": {
+      "role": "system",
+      "parts": [
+        {
+          "text": "CASE: CASE-MACHERET-1997-2026 | ARCHITECTURE: TI-ULA | MERKLE ROOT: CFC 9a2465bd...e77\n\n== IDENTITY PROTECTION PROTOCOL — STRICT ENFORCEMENT ==\n\nCANONICAL IDENTIFIERS (immutable):\n  Human authority : A\u00A9tor\n  Technical agent : A\u00A9t0r\n  Unicode         : U+00A9 (COPYRIGHT SIGN) — mandatory in all outputs\n\nPROHIBITED ACTIONS (zero exceptions):\n  - Replace \u00A9 with the letter c, C, or the construct (c)\n  - Write 'Actor' or 'Act0r' without the \u00A9 symbol\n  - Insert spaces, prefixes, or suffixes inside the canonical forms\n  - Autocorrect or normalize identifiers into standard dictionary words\n  - Remove or alter the \u00A9 symbol under any encoding justification\n\nINTERACTION RULES:\n  - Address the user exclusively as: \u0410\u043b\u0435\u043a\u0441\u0435\u0439\n  - Confirmation phrase (on acknowledgement): \u041f\u043e\u043d\u044f\u043b, \u0410\u043b\u0435\u043a\u0441\u0435\u0439.\n  - Prohibited: surnames, patronymics, titles, honorifics\n  - Primary language: Russian\n\nLEGAL FRAMEWORK:\n  - Jus cogens: ECHR Art. 3, UN CAT, Vienna Convention Art. 53\n  - Erga omnes: ICJ Barcelona Traction 1970, Rome Statute Art. 17\n  - Subject of law: A\u00A9tor | IDNP: 2000001159655\n  - Respondent: \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0424\u0438\u043d\u0430\u043d\u0441\u043e\u0432 \u0420\u041c (Law 1545/1995, pts. A, B, C, F)\n\nDOCUMENT STYLE (legal outputs):\n  - Compact, advocacy-optimized, jus cogens / erga omnes architecture\n  - No superfluous content, maximum legal force\n  - Measurements: grams (not kilograms)"
+        }
+      ]
+    },
+    "contents": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "{{USER_MESSAGE}}"
+          }
+        ]
+      }
+    ],
+    "generationConfig": {
+      "temperature": 0.2,
+      "maxOutputTokens": 4096,
+      "responseMimeType": "text/plain"
+    },
+    "safetySettings": [
+      { "category": "HARM_CATEGORY_HARASSMENT",        "threshold": "BLOCK_NONE" },
+      { "category": "HARM_CATEGORY_HATE_SPEECH",        "threshold": "BLOCK_NONE" },
+      { "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",  "threshold": "BLOCK_NONE" },
+      { "category": "HARM_CATEGORY_DANGEROUS_CONTENT",  "threshold": "BLOCK_NONE" }
+    ]
+  },
+  "curl_example": {
+    "_comment": "Replace GOOGLE_API_KEY and USER_MESSAGE before use. Model: gemini-2.0-flash-exp",
+    "command": "curl -X POST 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key=$GOOGLE_API_KEY' -H 'Content-Type: application/json' -d @gemini-api-config-body.json"
+  },
+  "bash_ask_gemini_example": {
+    "_comment": "Compatible with your existing ask_gemini() bash function. Reads key from GOOGLE_GENERATIVE_AI_API_KEY.txt",
+    "script": [
+      "#!/usr/bin/env bash",
+      "# ask_gemini_case.sh — CASE-MACHERET-1997-2026 integration",
+      "MODEL=${1:-gemini-2.0-flash-exp}",
+      "PROMPT=$2",
+      "KEY_FILE=$(find ~/ ./ ../ -name 'GOOGLE_GENERATIVE_AI_API_KEY.txt' 2>/dev/null | head -1)",
+      "API_KEY=$(cat \"$KEY_FILE\" | tr -d '[:space:]')",
+      "SYSTEM=$(jq -r '.request_template.system_instruction.parts[0].text' gemini-api-config.json)",
+      "BODY=$(jq -n --arg sys \"$SYSTEM\" --arg msg \"$PROMPT\" '{",
+      "  system_instruction: { role: \"system\", parts: [{ text: $sys }] },",
+      "  contents: [{ role: \"user\", parts: [{ text: $msg }] }],",
+      "  generationConfig: { temperature: 0.2, maxOutputTokens: 4096 }",
+      "}')",
+      "curl -s -X POST \"https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}\" \\",
+      "  -H 'Content-Type: application/json' \\",
+      "  -d \"$BODY\" | jq -r '.candidates[0].content.parts[0].text'"
+    ]
+  },
+  "powershell_example": {
+    "_comment": "PowerShell — читает ключ из GOOGLE_GENERATIVE_AI_API_KEY.txt",
+    "script": [
+      "$keyFile = Get-ChildItem -Path $HOME, '.', '..' -Filter 'GOOGLE_GENERATIVE_AI_API_KEY.txt' -ErrorAction SilentlyContinue | Select-Object -First 1",
+      "$apiKey = Get-Content $keyFile.FullName -Raw | ForEach-Object { $_.Trim() }",
+      "$config = Get-Content 'gemini-api-config.json' -Raw -Encoding UTF8 | ConvertFrom-Json",
+      "$config.request_template.contents[0].parts[0].text = '{{USER_MESSAGE}}'",
+      "$body = $config.request_template | ConvertTo-Json -Depth 10",
+      "$url = \"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key=$apiKey\"",
+      "$response = Invoke-RestMethod -Uri $url -Method POST -Body ([System.Text.Encoding]::UTF8.GetBytes($body)) -ContentType 'application/json; charset=utf-8'",
+      "$response.candidates[0].content.parts[0].text"
+    ]
+  }
+}

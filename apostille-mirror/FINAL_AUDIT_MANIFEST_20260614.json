@@ -1,0 +1,43 @@
+{
+  "case_id": "CASE-MACHERET-1997-2026",
+  "node_id": "A©tor_Alt_Node1",
+  "timestamp": "2026-06-14T14:35:00Z",
+  "merkle_roots": {
+    "ai_registry_root": "546E0FF3EE16432A062DFEB504F05F6DC55780959E145CFFB53A10E61BA666BF",
+    "evidence_master": "36798DF72D9804AEADB65BC7815481953C28562A1FE1246E273C227C2DF2EA1A",
+    "dicom_vector": "A©tor_V4.4"
+  },
+  "audit_results": {
+    "total_dicom_files": 921,
+    "verified_patients": ["Marcova^Galina", "Marcova^Galina^ch colorectal"],
+    "status": "VERIFIED_SUCCESSFUL"
+  },
+  "anchors": {
+    "idnp_verified": "2000001159655",
+    "legal_basis": "Jus Cogens / Erga Omnes (ECHR Art. 3, UN CAT)",
+    "disability_cert": "C013564402308",
+    "forensic_dispatch": {
+      "doc_id": "EVIDENCE_OF_SYSTEMIC_HOMICIDE_AND_RECORD_FALSIFICATION",
+      "status": "SIGNED_AND_DISPATCHED",
+      "target_agencies": ["Interpol", "UN OHCHR", "International Criminal Court"],
+      "sha256": "E9EB07BE601A03247AF4C4941299E99520342BE399A2FD2B6DEC1459270053FD",
+      "resource_links": {
+        "submission_package": "https://github.com/arhiv1973b/apostille-mirror/blob/main/INTERNATIONAL_SUBMISSION_PACKAGE_20260613.md",
+        "audit_data_frame": "https://github.com/arhiv1973b/apostille-mirror/blob/main/forensic_reports/audit_data_frame_20260613.csv",
+        "legal_memorandum": "https://github.com/arhiv1973b/apostille-mirror/blob/main/MEMORANDUM_CHAIN_OF_MANIPULATION_20260613.md"
+      }
+    },
+    "evidence_compilation_150p": {
+      "doc_id": "FORENSIC_COMPILATION_TRILINGUAL_150P",
+      "sha256": "24CF1E690027B04EE952CE95C81B0F3AB98F8BB45196F471D2B50904638444F8",
+      "findings": [
+        "Identity Substitution: Marcova 1953 vs Timofei 1950 verified via medical records",
+        "Surgical Hardware: 3 metallic bolts omitted in Forensic Report 202203C0348",
+        "Organ Perforation: Bolt entry into abdominal cavity as lethal trauma mask",
+        "Judicial Fraud: Response from Chisinau Prosecutor (Feb 2025) confirming systemic blockade"
+      ]
+    }
+  },
+  "integrity": "LOCKED",
+  "status": "PUBLISHED_TO_VAULT"
+}

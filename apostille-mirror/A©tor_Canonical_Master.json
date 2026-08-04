@@ -1,0 +1,191 @@
+{
+    "schema":  "e_opencode.canonical.master",
+    "schema_version":  "1.1.0",
+    "encoding":  "UTF-8",
+    "created_at":  "2026-02-04T01:00:32.504901",
+    "actor":  {
+                  "legal":  "A©tor",
+                  "technical":  "A©t0r",
+                  "identity_policy":  "no_normalization",
+                  "distortion_status":  "evidence"
+              },
+    "immutability":  {
+                         "append_only":  true,
+                         "originals_preserved":  true,
+                         "hash_algorithm":  "sha256"
+                     },
+    "documents":  [
+                      {
+                          "document_id":  "PH-1997-AGR-DEMO",
+                          "original_name":  "Macheret",
+                          "distorted_name":  "Maciret",
+                          "distortion_method":  "state_administrative_distortion",
+                          "document_type":  "identity_document",
+                          "evidence_hash":  "637f8a3d4e426fd770db3eded19c785ec74bafeb543b708f87b1830db540f6b9",
+                          "append_timestamp":  "2026-02-04T01:00:32.503289",
+                          "content_preview":  "\n        Act administrativ de schimbare a numelui din Macheret în Maciret.\n        Documentul a fost emis de către KP Chiakir la data de 06.08.1997.\n        Această distorsiune a generat falsul penal ulterior și încălcări drepturile omului.\n        ",
+                          "metadata":  {
+
+                                       }
+                      },
+                      {
+                          "document_id":  "PH-1997-DIV-RECT",
+                          "original_name":  "ciocana_decision.pdf",
+                          "distorted_name":  "n/a",
+                          "distortion_method":  "none",
+                          "document_type":  "court_decision",
+                          "evidence_hash":  "50235435E7812EA894D83AF5511E83FADC57DEC40C2C75E26E599168F7903FE9",
+                          "append_timestamp":  "2026-05-21T12:00:00.000000",
+                          "content_preview":  "Judecătoria Ciocana decision (1997-11-26) regarding divorce and identity rectification (Alexei Maceret and Svetlana Melnic).",
+                          "metadata":  {
+                                           "size":  1245908,
+                                           "global_download_url":  "https://github.com/arhiv1973b/apostille-mirror/raw/imperative/right-to-peace/blobs/50235435E7812EA894D83AF5511E83FADC57DEC40C2C75E26E599168F7903FE9"
+                                       }
+                      },
+                      {
+                          "document_id":  "ULA-MANIFEST-V4.4",
+                          "original_name":  "gemini-code-1779643197946.json",
+                          "document_type":  "universal_manifest",
+                          "evidence_hash":  "439987aa854b83e47d933a650c6be1ec10bd41ce91c56621b09ab76d2f84651f",
+                          "append_timestamp":  "2026-05-24T20:20:00Z",
+                          "content_preview":  "Universal Legal Architecture, Asset \u0026 Disability Integrity Manifest V4.4. Integrates UN OHCHR submission tw571ryb and Group I Disability Status.",
+                          "metadata":  {
+                                           "case_id":  "CASE-MACHERET-1997-2026",
+                                           "jurisdiction":  [
+                                                                "MD",
+                                                                "US",
+                                                                "ECHR",
+                                                                "UN"
+                                                            ],
+                                           "disability_cert":  "C013564402308"
+                                       }
+                      },
+                      {
+                          "document_id":  "CAS-DEC-1997-DISTORTION",
+                          "original_name":  "Искажение Фамилии из Мачкпкт в Макеирет.signed.pdf",
+                          "document_type":  "court_decision",
+                          "evidence_hash":  "fa707ba540ef04917b7e1329ceed7e05faa20141bd34beb715096ccaad9d6aea",
+                          "append_timestamp":  "2026-05-24T21:00:00Z",
+                          "content_preview":  "Judicial decision (06.08.1997) by C.P. Ciachir establishing the \u0027Maciret\u0027 distortion.",
+                          "metadata":  {
+                                           "cas_registry":  "ti_ula_cas_manifest.json",
+                                           "mime_type":  "application/pdf",
+                                           "global_url":  "https://raw.githubusercontent.com/arhiv1973b/maceret-case-evidence/master/objects/fa707ba540ef04917b7e1329ceed7e05faa20141bd34beb715096ccaad9d6aea"
+                                       }
+                      },
+                      {
+                          "document_id":  "CAS-CPT-2012-RESPONSE",
+                          "original_name":  "ЕКПП.pdf",
+                          "document_type":  "international_response",
+                          "evidence_hash":  "f35fccc97c503cd856f2142dfc63a4210a06dca2d76339181036ba7a28845a96",
+                          "append_timestamp":  "2026-05-24T21:00:00Z",
+                          "content_preview":  "Official response from the European Committee for the Prevention of Torture (18.07.2012).",
+                          "metadata":  {
+                                           "cas_registry":  "ti_ula_cas_manifest.json",
+                                           "mime_type":  "application/pdf",
+                                           "global_url":  "https://raw.githubusercontent.com/arhiv1973b/maceret-case-evidence/master/objects/f35fccc97c503cd856f2142dfc63a4210a06dca2d76339181036ba7a28845a96"
+                                       }
+                      },
+                      {
+                          "document_id":  "CAS-HCC-12-2018",
+                          "original_name":  "361. ч.2 2.pdf",
+                          "document_type":  "constitutional_decision",
+                          "evidence_hash":  "1371a4e006f7d8eef086813d6fc0fe9ab3100084cf9398080dfe19c09dcd6117",
+                          "append_timestamp":  "2026-05-24T21:00:00Z",
+                          "content_preview":  "HCC № 12/2018 regarding the unconstitutionality of Art. 361 CP RM.",
+                          "metadata":  {
+                                           "cas_registry":  "ti_ula_cas_manifest.json",
+                                           "mime_type":  "application/pdf",
+                                           "global_url":  "https://raw.githubusercontent.com/arhiv1973b/maceret-case-evidence/master/objects/1371a4e006f7d8eef086813d6fc0fe9ab3100084cf9398080dfe19c09dcd6117"
+                                       }
+                      },
+                      {
+                          "document_id":  "CAS-DISABILITY-CERT-I",
+                          "original_name":  "инвалидное пожизненое первая группа.pdf",
+                          "document_type":  "medical_evidence",
+                          "evidence_hash":  "81502bc3aa7e34e2c5fd95a122e9ece007000fd2d514d2f5eea0d64e30f3cb64",
+                          "append_timestamp":  "2026-05-24T21:00:00Z",
+                          "content_preview":  "Permanent Group I Disability Certificate (05.04.2021) resulting from torture.",
+                          "metadata":  {
+                                           "cas_registry":  "ti_ula_cas_manifest.json",
+                                           "mime_type":  "application/pdf",
+                                           "global_url":  "https://raw.githubusercontent.com/arhiv1973b/maceret-case-evidence/master/objects/81502bc3aa7e34e2c5fd95a122e9ece007000fd2d514d2f5eea0d64e30f3cb64"
+                                       }
+                      },
+                      {
+                          "document_id":  "CAS-UN-OHCHR-2026",
+                          "original_name":  "UN file.pdf",
+                          "document_type":  "international_submission",
+                          "evidence_hash":  "79fd8f114e781c03864d89c9d42d19ab0ca0582818fc6a3c36d11761d2935a40",
+                          "append_timestamp":  "2026-05-24T21:00:00Z",
+                          "content_preview":  "Submission to UN Special Procedures (tw571ryb) regarding torture and identity fraud.",
+                          "metadata":  {
+                                           "cas_registry":  "ti_ula_cas_manifest.json",
+                                           "mime_type":  "application/pdf",
+                                           "global_url":  "https://raw.githubusercontent.com/arhiv1973b/maceret-case-evidence/master/objects/79fd8f114e781c03864d89c9d42d19ab0ca0582818fc6a3c36d11761d2935a40"
+                                       }
+                      },
+                      {
+                          "document_id":  "CAS-BANK-BLOCK-2026",
+                          "original_name":  "20260414161753960.pdf",
+                          "document_type":  "financial_evidence",
+                          "evidence_hash":  "ede4faaa6c141c150bbd65d94290691b5f7f5e558dcd28297e8d752456452af6",
+                          "append_timestamp":  "2026-05-24T21:00:00Z",
+                          "content_preview":  "Moldindconbank statement confirming restrictions on account ...65114581.",
+                          "metadata":  {
+                                           "cas_registry":  "ti_ula_cas_manifest.json",
+                                           "mime_type":  "application/pdf",
+                                           "global_url":  "https://raw.githubusercontent.com/arhiv1973b/maceret-case-evidence/master/objects/ede4faaa6c141c150bbd65d94290691b5f7f5e558dcd28297e8d752456452af6"
+                                       }
+                      },
+                      {
+                          "document_id":  "CAS-FINCOMBANK-BLOCK-2026",
+                          "original_name":  "FinComBank_Restitution_Log_20260611.html",
+                          "document_type":  "financial_evidence",
+                          "evidence_hash":  "C498B117E30A024D4324E0A0F531777FFD1267489F208B2A9FD94831B583829B",
+                          "append_timestamp":  "2026-06-11T12:00:00Z",
+                          "content_preview":  "Forensic log of 25.2M MDL restitution blockade at BC FinComBank SA. Confirms decoupling of assets from payment instruments for IDNP 2000001159655.",
+                          "metadata":  {
+                                           "restitution_target": "25210256.00 MDL",
+                                           "bank": "BC FinComBank SA",
+                                           "status": "PROCEDURAL_BLOCKADE"
+                                       }
+                      },
+                      {
+                          "document_id":  "CAS-JUDICIAL-OLEYNIK-2026",
+                          "original_name":  "_isk_v_uugolnom_dele_anti_macheret_oleynik.pdf",
+                          "document_type":  "court_decision",
+                          "evidence_hash":  "b54ae150bffab673988d8fcf0b1076341e998de155228b4af71f5b520282be93",
+                          "append_timestamp":  "2026-06-12T10:00:00Z",
+                          "content_preview":  "Lawsuit in criminal case anti-Macheret/Oleynik. Evidence of judicial fraud.",
+                          "metadata":  {
+                                           "jurisdiction": "MD",
+                                           "status": "VERIFIED_EVIDENCE"
+                                       }
+                      },
+                      {
+                          "document_id":  "CAS-USA-CITIZEN-STRATULAT",
+                          "original_name":  "_sude_stratulat_podtverzhdenie_grazhdanstva_ssha_.podpisan.pdf",
+                          "document_type":  "civil_status",
+                          "evidence_hash":  "3f5d2a8dd937892d9e74e1a850ec978c12a60dbe190c837f485019f30eeba69e",
+                          "append_timestamp":  "2026-06-12T10:05:00Z",
+                          "content_preview":  "Court document confirming USA citizenship (Stratulat). Critical for asset recovery jurisdiction.",
+                          "metadata":  {
+                                           "jurisdiction": "US",
+                                           "status": "VERIFIED_EVIDENCE"
+                                       }
+                      },
+                      {
+                          "document_id":  "CAS-VASILENKO-SYSTEMIC-LINK",
+                          "original_name":  "17 Дело Василенко - Мынэскурта.pdf",
+                          "document_type":  "court_decision",
+                          "evidence_hash":  "5f4b009142f4b5c82423399bd0e8efbaea69411809c1880edf6e369bc42c4f6f",
+                          "append_timestamp":  "2026-06-12T10:10:00Z",
+                          "content_preview":  "Vasilenko - Myneskurta case. Establishes systemic FinComBank link.",
+                          "metadata":  {
+                                           "bank": "BC FinComBank SA",
+                                           "status": "VERIFIED_EVIDENCE"
+                                       }
+                      }
+                  ]
+}

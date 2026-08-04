@@ -1,0 +1,10 @@
+﻿{
+    "cascade_triggers":  [
+                             "unauthorized",
+                             "strangulation",
+                             "blocking",
+                             "unhandled exception",
+                             "CASCADE_TRIGGER",
+                             "Node 025"
+                         ]
+}

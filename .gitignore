@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -118,4 +119,41 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+# Pyre type checker
 .pyre/
+# Сначала игнорируем всё
+*
+# Но разрешаем нужные файлы и типы
+!/.gitignore
+!/apostille-mirror/
+!/run/
+!*.py
+!*.ps1
+!*.json
+!Dockerfile
+!requirements.txt
+# Блокировка секретов
+.keys/
+*.key
+*.asc
+# Ignore GitHub PATs
+*github_pat_*
+=======
+﻿# Сначала игнорируем всё
+*
+
+# Но разрешаем нужные файлы и типы
+!/.gitignore
+!/apostille-mirror/
+!/run/
+!*.py
+!*.ps1
+!*.json
+!Dockerfile
+!requirements.txt
+
+# Блокировка секретов
+.keys/
+*.key
+*.asc
+>>>>>>> fc2e16c (fix: restore apostille-mirror as standard directory and fix gitignore)

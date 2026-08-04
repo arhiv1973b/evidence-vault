@@ -1,0 +1,860 @@
+[
+  {
+    "Timestamp": "2026-06-11T12:00:00Z",
+    "Type": "REGISTRY_EVENT",
+    "Detail": "Balance: 0 MDL",
+    "Source": "ai_registry.json"
+  },
+  {
+    "Timestamp": "2026-06-11T12:05:00Z",
+    "Type": "REGISTRY_EVENT",
+    "Detail": "Balance: 25210.26 MDL",
+    "Source": "ai_registry.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:06:03",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: **** 6089 in \\jus-cogens-proof-macheret.html",
+    "Source": "leaky_algorithm_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:06:03",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: **** 6089 in \\jus-cogens-proof-macheret.html",
+    "Source": "leaky_algorithm_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:52",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ******4177 in \\Forensic_Audit_20260524\\AUDIT_REPORT_20260524.html",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:52",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ******4177 in \\Forensic_Audit_20260524\\Node_Donation_Audit_20260524.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:52",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ******4177 in \\Forensic_Audit_20260524\\Node_Financial_Theft_20260524.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:52",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ******4177 in \\Forensic_Audit_20260524\\Node_Financial_Theft_20260524.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\artifact\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\artifact\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\artifact\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\artifact\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\artifact\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\artifact\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\artifact\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****4177 in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\Reabilitation.подписан.pdf_translated.txt",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****7 in \\mirrors\\artifact\\Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:53",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****4177 in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\Reabilitation.подписан.pdf_translated.txt",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 21:28:54",
+    "Type": "MARKER_ANOMALY",
+    "Detail": "Match: ****4177 in \\mirrors\\Reabilitation.подписан.pdf_translated.txt",
+    "Source": "anomaly_marker_7_matches.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:04",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\artifact\\docs\\legal\\strategy\\MANIFEST_APRIL_01.md",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:04",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\artifact\\docs\\legal\\strategy\\COURT_TERROR_REPORT.md",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:06",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\doc_b9330b52.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:06",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOS in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\в_отношении_подделок_подписей_Маркова.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:06",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAN in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\Юрие_Иоран_Нумерация_Предвари_тельная_.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:06",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dan in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\actual_Запрос_на_восстановление_прав_в_кадастр_документ.подписан[2305843009229778215].pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:06",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAN in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\actual_Tel_mamii.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:06",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\Curtea Suuprema - lege Actor.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:06",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOS in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\doc_4d49c35b.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:06",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\doc_b9330b52.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:06",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\doc_51000c7c.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:06",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\doc_4d49c35b.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:07",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dan in \\mirrors\\artifact\\Downloads\\EVIDENCE_TRANSLATED\\iCloudPhotos_Photos_Скибину_и_Багрин.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:11",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\docs\\legal\\strategy\\MANIFEST_APRIL_01.md",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:11",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\docs\\legal\\strategy\\COURT_TERROR_REPORT.md",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:12",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOS in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\в_отношении_подделок_подписей_Маркова.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:13",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dan in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\iCloudPhotos_Photos_Скибину_и_Багрин.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:13",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAN in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\Юрие_Иоран_Нумерация_Предвари_тельная_.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:13",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dan in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\actual_Запрос_на_восстановление_прав_в_кадастр_документ.подписан[2305843009229778215].pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:13",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAN in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\actual_Tel_mamii.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:13",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\Curtea Suuprema - lege Actor.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:13",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOS in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\doc_4d49c35b.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:13",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\doc_4d49c35b.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:13",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\doc_b9330b52.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:13",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\doc_51000c7c.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:13",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\Downloads\\EVIDENCE_TRANSLATED\\doc_b9330b52.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:14",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOS in \\mirrors\\в_отношении_подделок_подписей_Маркова.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:14",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAN in \\mirrors\\Юрие_Иоран_Нумерация_Предвари_тельная_.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:14",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dan in \\mirrors\\actual_Запрос_на_восстановление_прав_в_кадастр_документ.подписан[2305843009229778215].pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:15",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAN in \\mirrors\\actual_Tel_mamii.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:15",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOs in \\mirrors\\apostila  Суд мед. экспертиза последствие решения Г. Морозан санкционировавший рабой_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:15",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostila (13.10.1998ю.Sentinta_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:15",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOs in \\mirrors\\apostila (13.10.1998ю.Sentinta_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:15",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOs in \\mirrors\\apostila (13.10.1998ю.Sentinta_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:15",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: Ios in \\mirrors\\apostila (13.10.1998ю.Sentinta_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:15",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IoS in \\mirrors\\apostila (13.10.1998ю.Sentinta_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IpAd in \\mirrors\\apostila (Viirlan 2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOS in \\mirrors\\apostila (19.03.2008 (1)_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DaN in \\mirrors\\apostila (19.03.2008 (1)_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostila (19.03.2008 (1)_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAN in \\mirrors\\apostila (19.03.2008 (1)_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: daN in \\mirrors\\apostila (19.03.2008 (1)_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: daN in \\mirrors\\apostila (19.03.2008 (1)_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: Ios in \\mirrors\\apostila (19.03.2008 (1)_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: daN in \\mirrors\\apostila (19.03.2008 (1)_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dAN in \\mirrors\\apostila (Viirlan 2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: daN in \\mirrors\\apostila (Viirlan 2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dan in \\mirrors\\apostila (Viirlan 2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOs in \\mirrors\\apostila (Viirlan 2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAn in \\mirrors\\apostila (Viirlan 2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostila_1.11.02.2021_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ioS in \\mirrors\\apostila Certjficat Victim_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostila (Viirlan 2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IoS in \\mirrors\\apostila (Viirlan 2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOS in \\mirrors\\apostila (Viirlan 2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:17",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOS in \\mirrors\\apostila (Viirlan 2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ioS in \\mirrors\\apostila_dulcea_rus_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostila_dulcea_rus_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostila_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: Ios in \\mirrors\\apostila_dulcea_rus_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostila_dulcea_rus_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: Dan in \\mirrors\\apostila_ДАТЫ 09.12.2020 ГОДА_№ 1-649_2003_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: Dan in \\mirrors\\apostila_ДАТЫ 09.12.2020 ГОДА_№ 1-649_2003_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: Ios in \\mirrors\\apostila_2008_1_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: daN in \\mirrors\\apostila_2008_1_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: daN in \\mirrors\\apostila_2008_1_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAN in \\mirrors\\apostila_2008_1_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostila_2008_1_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DaN in \\mirrors\\apostila_2008_1_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOS in \\mirrors\\apostila_2008_1_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:19",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: daN in \\mirrors\\apostila_2008_1_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:20",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IoS in \\mirrors\\apostila_viirlan_2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:20",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IpAd in \\mirrors\\apostila_viirlan_2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:20",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOS in \\mirrors\\apostila_viirlan_2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:20",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAn in \\mirrors\\apostila_viirlan_2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:20",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostila_viirlan_2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:20",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dan in \\mirrors\\apostila_viirlan_2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:20",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: daN in \\mirrors\\apostila_viirlan_2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:20",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dAN in \\mirrors\\apostila_viirlan_2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:20",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOS in \\mirrors\\apostila_viirlan_2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:20",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOs in \\mirrors\\apostila_viirlan_2011_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dAN in \\mirrors\\apostila.1-28_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: daN in \\mirrors\\apostila.1-28_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dan in \\mirrors\\apostila.1-28_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOs in \\mirrors\\apostila.1-28_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAn in \\mirrors\\apostila.1-28_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IoS in \\mirrors\\apostila.1-28_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOS in \\mirrors\\apostila.1-28_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IpAd in \\mirrors\\apostila.1-28_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOS in \\mirrors\\apostila.1-28_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostila.1-28_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: Ios in \\mirrors\\apostila.11.02.2021_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dAn in \\mirrors\\apostila.11.02.2021_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dan in \\mirrors\\apostile 1961_1_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:21",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dan in \\mirrors\\apostile 1961_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\Curtea Suuprema - lege Actor.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: DAn in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: Ios in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOs in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ioS in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOs in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: Ios in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOS in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOS in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: daN in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IOs in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:22",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ioS in \\mirrors\\apostile.1ra-834_09_instant_access.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:24",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\iCloudPhotos_Photos_Жалоба_на_отмену_антиконституционного_Отказа_передачи_Дела_в_Конституционный_Суд.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:24",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\iCloudPhotos_Photos_Жалоба_на_отмену_антиконституционного_Отказа_передачи_Дела_в_Конституционный_Суд.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:24",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: dan in \\mirrors\\iCloudPhotos_Photos_Скибину_и_Багрин.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:25",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: ios in \\mirrors\\Scanned_Documents_Заявление_на_Определение_Обмана.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:25",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iPhone in \\mirrors\\pdf24-Донос_через_электроную_почту_и_подпись__—_Outlook.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:25",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: iOS in \\mirrors\\pdf24-Донос_через_электроную_почту_и_подпись__—_Outlook.pdf_translated.txt",
+    "Source": "apple_device_links.json"
+  },
+  {
+    "Timestamp": "2026-06-11 22:57:25",
+    "Type": "APPLE_SESSION",
+    "Detail": "Signature: IoS in \\mirrors\\passaport_instant_access.txt",
+    "Source": "apple_device_links.json"
+  }
+]

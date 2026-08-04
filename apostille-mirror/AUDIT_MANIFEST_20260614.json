@@ -1,0 +1,29 @@
+{
+  "vectors": {
+    "alpha_series": {
+      "patient_name": "Marcova^Galina",
+      "coordinates": {
+        "Y": -143.1942,
+        "X": -171.514
+      },
+      "z_slice_step_mm": 0.8
+    },
+    "beta_series": {
+      "macro_z_keyframes_step_mm": 20.8,
+      "patient_name": "Marcova^Galina^ch colorectal",
+      "coordinates": {
+        "Y": -221.2467,
+        "X": -218.317
+      },
+      "z_slice_step_mm": 0.8
+    }
+  },
+  "metadata": {
+    "case_id": "CASE-MACHERET-1997-2026",
+    "total_files_verified": 921,
+    "protocol_version": "A©tor_V4.4",
+    "status": "INTEGRITY_LOCKED",
+    "source_path": "C:\\A\\29 апр 2024\\MARCOVAGALINA\\DICOM",
+    "audit_date": "2026-06-14"
+  }
+}

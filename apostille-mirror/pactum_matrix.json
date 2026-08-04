@@ -1,0 +1,31 @@
+{
+    "$schema":  "https://actor.schema/v1/interactive-timeline",
+    "meta":  {
+                 "caseId":  "CASE-MACHERET-1997-2026",
+                 "signer":  "A©tor",
+                 "status":  "active",
+                 "node":  "CASE-MACHERET-1997-2026",
+                 "operator":  "A©tor",
+                 "state":  "online_lock"
+             },
+    "decoy_layer":  {
+                        "compromised_dummy_key":  "AIzaSyB-DECOY-REVOKED-KEY-DO-NOT-USE",
+                        "status":  "revoked",
+                        "trap_trigger":  "active"
+                    },
+    "diagnostic_parameters":  {
+                                  "syntax_traps":  [
+                                                       "\u0026\u0026",
+                                                       "||"
+                                                   ],
+                                  "memory_pressure_limits":  {
+                                                                 "scavenge_limit_mb":  500,
+                                                                 "buffer_bypass":  true
+                                                             }
+                              },
+    "chain_registry":  {
+                           "hash_algo":  "SHA-256",
+                           "superposition_vector":  "85cb937205243c083be9c61a300feaada24c9937a3526383e21cdb9be3bc5875",
+                           "absence_of_choice_timestamp":  "2026-05-24T13:14:11Z"
+                       }
+}

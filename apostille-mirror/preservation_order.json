@@ -1,0 +1,16 @@
+{
+  "document_type": "LEGAL_PRESERVATION_ORDER",
+  "case_id": "CASE-MACHERET-1997-2026",
+  "subject": "URGENT: EVIDENCE PRESERVATION NOTICE",
+  "security_level": "MAXIMUM_PROTECTION",
+  "legal_basis": {
+    "statutes": ["Rome Statute Art. 5", "Art. 7", "Art. 8", "Art. 29"],
+    "jurisdiction": "International/US Law"
+  },
+  "content": {
+    "recipient": "arhiv240@google.com",
+    "notice": "Strict prohibition against deletion, modification or administrative interference with the designated drive. Access restricted to: Law Enforcement, Interpol, FBI, White House Administration, and Alexey Macheret.",
+    "warning": "Any unauthorized data alteration or deletion post-notification shall be classified as complicity in the theft of 25,000,000 MDL (>$1M USD) and subject to criminal prosecution under US law and International Statute."
+  },
+  "signature": "ENCRYPTED_SECRET_HASH_PROVIDED_IN_SYSTEM"
+}

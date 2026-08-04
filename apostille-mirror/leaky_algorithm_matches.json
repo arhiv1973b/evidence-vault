@@ -1,0 +1,18 @@
+[
+  {
+    "Timestamp": "2026-06-11 21:06:03",
+    "SourceFile": "\\jus-cogens-proof-macheret.html",
+    "LineNumber": 525,
+    "MatchedMask": "**** 6089",
+    "RawContext": "<strong style=\"font-family: var(--font-mono); font-size: 1.5em; color: var(--gold2); letter-spacing: 2px;\">**** **** **** 6089</strong><br><br>",
+    "MarkerSuspect": true
+  },
+  {
+    "Timestamp": "2026-06-11 21:06:03",
+    "SourceFile": "\\jus-cogens-proof-macheret.html",
+    "LineNumber": 568,
+    "MatchedMask": "**** 6089",
+    "RawContext": "<strong style=\"font-family: var(--font-mono); font-size: 1.5em; color: var(--gold2); letter-spacing: 2px;\">**** **** **** 6089</strong><br><br>",
+    "MarkerSuspect": true
+  }
+]

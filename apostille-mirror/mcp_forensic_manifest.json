@@ -1,0 +1,1345 @@
+{
+  "case_id": "CASE-MACHERET-1997-2026",
+  "nodes": [
+    {
+      "rel_path": "Срочные меры_3.pdf",
+      "filename": "Срочные меры_3.pdf",
+      "sha256": "82CBB681885B2AE02EA088121DB8798DCA165FDB1CCBEA56CD2C0ADE6F92B0B8",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "final_audit_report Cod Fiscal 2_555 2_455 and 2_666.txt",
+      "filename": "final_audit_report Cod Fiscal 2_555 2_455 and 2_666.txt",
+      "sha256": "5CBBF18AE2A911BB53EF2B7E771BC04B2101DE09D50B43630BD87FA3E882B4F8",
+      "mcp_role": "FORGERY_DETECTED"
+    },
+    {
+      "rel_path": "FINAL_MANIFEST_2026-04-02.txt",
+      "filename": "FINAL_MANIFEST_2026-04-02.txt",
+      "sha256": "6EF7A3838881EF5568EF229D67AA463FCB19D3306D3F6AF600567C23CBE97ADD",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "index codul Fiscal_2.pdf",
+      "filename": "index codul Fiscal_2.pdf",
+      "sha256": "A78530DB15DE7BCF93EA0ADF2EB33E1C91EA8AF45B71D94578D87873327E37A6",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "MACHERET_STATEMENT_20042026 - Google Документы.pdf",
+      "filename": "MACHERET_STATEMENT_20042026 - Google Документы.pdf",
+      "sha256": "C2F20CB767FC84D0036AEC8327711007B7B9E444721B6BB2F05A43DB415BB13F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\id_ed25519",
+      "filename": "id_ed25519",
+      "sha256": "53F1DC8A3EDC00702A28AFCE553FC07B7231A29D26C98C2107D9961CA4C44194",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\id_ed25519.pub",
+      "filename": "id_ed25519.pub",
+      "sha256": "99D5EA3D1A95976B34D0D5C70E16EFB2A4D31AE3829F32AC2EA553167C181EA1",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\models\\blobs\\sha256-109037bec39c0becc8221222ae23557559bc594290945a2c4221ab4f303b8871",
+      "filename": "sha256-109037bec39c0becc8221222ae23557559bc594290945a2c4221ab4f303b8871",
+      "sha256": "109037BEC39C0BECC8221222AE23557559BC594290945A2C4221AB4F303B8871",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\models\\blobs\\sha256-22a838ceb7fb22755a3b0ae9b4eadde629d19be1f651f73efb8c6b4e2cd0eea0",
+      "filename": "sha256-22a838ceb7fb22755a3b0ae9b4eadde629d19be1f651f73efb8c6b4e2cd0eea0",
+      "sha256": "22A838CEB7FB22755A3B0AE9B4EADDE629D19BE1F651F73EFB8C6B4E2CD0EEA0",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\models\\blobs\\sha256-6331358be52a6ebc2fd0755a51ad1175734fd17a628ab5ea6897109396245362",
+      "filename": "sha256-6331358be52a6ebc2fd0755a51ad1175734fd17a628ab5ea6897109396245362",
+      "sha256": "6331358BE52A6EBC2FD0755A51AD1175734FD17A628AB5EA6897109396245362",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\models\\blobs\\sha256-923426e76b183456b6aaca2c0538ae96f2de390cddc543278de025f714f79a03",
+      "filename": "sha256-923426e76b183456b6aaca2c0538ae96f2de390cddc543278de025f714f79a03",
+      "sha256": "923426E76B183456B6AACA2C0538AE96F2DE390CDDC543278DE025F714F79A03",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\models\\blobs\\sha256-af0ddbdaaa26f30d54d727f9dd944b76bdb926fdaf9a58f63f78c532f57c191f",
+      "filename": "sha256-af0ddbdaaa26f30d54d727f9dd944b76bdb926fdaf9a58f63f78c532f57c191f",
+      "sha256": "AF0DDBDAAA26F30D54D727F9DD944B76BDB926FDAF9A58F63F78C532F57C191F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\models\\blobs\\sha256-b6ae5839783f2ba248e65e4b960ab15f9c4b7118db285827dba6cba9754759e2",
+      "filename": "sha256-b6ae5839783f2ba248e65e4b960ab15f9c4b7118db285827dba6cba9754759e2",
+      "sha256": "B6AE5839783F2BA248E65E4B960AB15F9C4B7118DB285827DBA6CBA9754759E2",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\models\\blobs\\sha256-c8472cd9daed5e7c20aa53689e441e10620a002aacd58686aeac2cb188addb5c",
+      "filename": "sha256-c8472cd9daed5e7c20aa53689e441e10620a002aacd58686aeac2cb188addb5c",
+      "sha256": "C8472CD9DAED5E7C20AA53689E441E10620A002AACD58686AEAC2CB188ADDB5C",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\models\\blobs\\sha256-dd084c7d92a3c1c14cc09ae77153b903fd2024b64a100a0cc8ec9316063d2dbc",
+      "filename": "sha256-dd084c7d92a3c1c14cc09ae77153b903fd2024b64a100a0cc8ec9316063d2dbc",
+      "sha256": "DD084C7D92A3C1C14CC09AE77153B903FD2024B64A100A0CC8EC9316063D2DBC",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\models\\blobs\\sha256-e0a42594d802e5d31cdc786deb4823edb8adff66094d49de8fffe976d753e348",
+      "filename": "sha256-e0a42594d802e5d31cdc786deb4823edb8adff66094d49de8fffe976d753e348",
+      "sha256": "E0A42594D802E5D31CDC786DEB4823EDB8ADFF66094D49DE8FFFE976D753E348",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "caches\\.ollama\\models\\blobs\\sha256-fa956ab37b8c21152f975a7fcdd095c4fee8754674b21d9b44d710435697a00d",
+      "filename": "sha256-fa956ab37b8c21152f975a7fcdd095c4fee8754674b21d9b44d710435697a00d",
+      "sha256": "FA956AB37B8C21152F975A7FCDD095C4FEE8754674B21D9B44D710435697A00D",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Аналитический отчет по обращению гражданина Мачерет Алексея в Конституционный суд Республики Молдова.pdf",
+      "filename": "Аналитический отчет по обращению гражданина Мачерет Алексея в Конституционный суд Республики Молдова.pdf",
+      "sha256": "FA376DD6FEF07CE12CA1C8E14CC21B7066D8DE1FA49EAF4988656E03A1E77A40",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Жалоба на отмену.pdf",
+      "filename": "Жалоба на отмену.pdf",
+      "sha256": "A122EE59DCE570BF8CF12C9B04077040C378EB6A89227342F7337CAA9E7FA65A",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Жалоба на отмену.signed.pdf",
+      "filename": "Жалоба на отмену.signed.pdf",
+      "sha256": "DDA38EBE0C256C4A836B4A7642DC1266DBD3CE3AE7C8D13A0E630142483526EF",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Конституционный Суд Молдовы.pdf",
+      "filename": "Конституционный Суд Молдовы.pdf",
+      "sha256": "DF8274DA400578B1C510CEE05A4464822D7DF0E4397CCAA90DA1F0851DBD3A85",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\КС дубл.pdf",
+      "filename": "КС дубл.pdf",
+      "sha256": "7A9D197CE2C33727B389E817B0BCB5E352D773FD4FF1322916B6718391C27318",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\КС дубл.signed.pdf",
+      "filename": "КС дубл.signed.pdf",
+      "sha256": "BF47737C9E892587606F381389447684C51E51AC9958093F33590735C5879973",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\паспорт.pdf",
+      "filename": "паспорт.pdf",
+      "sha256": "1A40BEA085B05157225EF75AF19F913F2CB5497D929797539DBACC02CB6E9F01",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\паспорт.signed.pdf",
+      "filename": "паспорт.signed.pdf",
+      "sha256": "81291FAFA07D7906C02EC962BFC4A4210295615F1B6A1ACFE4CCB091880A22B3",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Реестр апостилей (рабочие).pdf",
+      "filename": "Реестр апостилей (рабочие).pdf",
+      "sha256": "A92259FE5712BFDD3150FCE775A8FA36F72477646ADE67AD4D7AAC07113CB8A5",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Реестр апостилей Мачерет по Jus Cogens.pdf",
+      "filename": "Реестр апостилей Мачерет по Jus Cogens.pdf",
+      "sha256": "7AE39E80FC63226DAAB2FE09BCA097F15FF4B928379E8B58E24DE856F4124351",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Реестр апостилей Мачерет по Jus Cogens.signed.pdf",
+      "filename": "Реестр апостилей Мачерет по Jus Cogens.signed.pdf",
+      "sha256": "5BCC2E4262DC8C8222C896E0A33DED081E7CFEC4056B06EB313D8C5E9EEDFC6C",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Реестр апостилей.pdf",
+      "filename": "Реестр апостилей.pdf",
+      "sha256": "28F600A3D2A13516A15DDDE02E694980FD09EEF5C739FE5A78008116BB4AD582",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Технологии.pdf",
+      "filename": "Технологии.pdf",
+      "sha256": "22229208B6E65D31E0D6D1952FE02303A302120DAC70BF23C285D3F9D101CE2E",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Фамилия.pdf",
+      "filename": "Фамилия.pdf",
+      "sha256": "625A4294DFFE5B9B776ED883BC421E312E636E676D6EA5E150E2928A6BF90A39",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Фамилия.signed.signed.pdf",
+      "filename": "Фамилия.signed.signed.pdf",
+      "sha256": "EE61C9FACC84D1FA764F5C4393E831E326DC62D0F5948919FB60CA6720B846D8",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Фамилия.signed.signed.signed.pdf",
+      "filename": "Фамилия.signed.signed.signed.pdf",
+      "sha256": "1003EA56C8A1DDFFB24C77452E0FDF4F90148A6F8CAFC2D375657ED2EFCCD423",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Фамилия.signed.signed.signed.signed.pdf",
+      "filename": "Фамилия.signed.signed.signed.signed.pdf",
+      "sha256": "A68CA1338B94F7129E9A266DE62A6D3C4F3A0BAB5F8F6661EE7A7307574046D7",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Фото.pdf",
+      "filename": "Фото.pdf",
+      "sha256": "61CAC61B34E29F6B51845C271AD14C0D2E7404A4E1C86C39D489767638DCF679",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Фото.signed.pdf",
+      "filename": "Фото.signed.pdf",
+      "sha256": "4C521369E398A43C09F673358E707FA09770E731F48AE7EA66878586471E597E",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\alexeimacheret] Add files via upload (#1) (0277445).pdf",
+      "filename": "alexeimacheret] Add files via upload (#1) (0277445).pdf",
+      "sha256": "18EE1478B7D9CFC34E81836F2C14098F35DF30C473269D8729E32C0ED9CA9F36",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Apostille Archive - English Version.pdf",
+      "filename": "Apostille Archive - English Version.pdf",
+      "sha256": "85D676A21EFED9848C54DC1039267C40E94310B5E5E6917534E3AAE13CE08FBA",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Apostille Archive - English Version.signed.pdf",
+      "filename": "Apostille Archive - English Version.signed.pdf",
+      "sha256": "EF7F23E5606CEACF0C881658E1EAAFD625759CFC78B41A5C3E7F2A19A2F0A9BA",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\apostille_links.json",
+      "filename": "apostille_links.json",
+      "sha256": "C18D3A33BB32484DE7130A5E66A3E3E5DEDA376CD494F75A1ACEC162B8B521AC",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Arhiva Apostilelor - Versiunea în limba romanie.signed.pdf",
+      "filename": "Arhiva Apostilelor - Versiunea în limba romanie.signed.pdf",
+      "sha256": "11B1E4866E302F2E6BA434F6298C261BB60A4823DC1A2C0611C4B41AF39CB02F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\combined_pdf_summaries_corrected.json",
+      "filename": "combined_pdf_summaries_corrected.json",
+      "sha256": "C4E05C44D3191BFFE77ACF4391CE93951EC1A879C50CF6F016A8534A3F6BEBF2",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\combined_pdf_summaries.json",
+      "filename": "combined_pdf_summaries.json",
+      "sha256": "64B45A5713A9A5C8FB92DF1D691050BE4E90E60591ED973E1E8AEC8BAB355AB3",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Constitutionale.pdf",
+      "filename": "Constitutionale.pdf",
+      "sha256": "FF60B11DD78C10211138650CBE79203BF086B8A0E528992463D5D88C4FBE7B8E",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\CRI_BAC_ron_UNK_HW_CRI_BAC_ron_UNK_HW_CRI_BAC_ron_UNK_HW_UNK_UNK_ron_.pdf",
+      "filename": "CRI_BAC_ron_UNK_HW_CRI_BAC_ron_UNK_HW_CRI_BAC_ron_UNK_HW_UNK_UNK_ron_.pdf",
+      "sha256": "5F08852AB5A07D546F9E475F6EF272E0F2CC322CEBBCEDB6595DFDDF8FE12A62",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\CSM.pdf",
+      "filename": "CSM.pdf",
+      "sha256": "6B45163EE63B087490C6A23AA0C820FC4ABA2C78CFC37213B992400AFF991106",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Curtea Suprema - Holban.pdf",
+      "filename": "Curtea Suprema - Holban.pdf",
+      "sha256": "F68F527608A8DD776BFDF541DF382A631C4219AB0549E7F84B34BDE0CE692099",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Curtea Suprema Stambol.pdf",
+      "filename": "Curtea Suprema Stambol.pdf",
+      "sha256": "39367090B190670136183C66DE514301A6F14D996697D4AF1887177D584F4D3F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Familia.signed.signet.pdf",
+      "filename": "Familia.signed.signet.pdf",
+      "sha256": "B79C94529B692341FE68A5012A915BE562F50C2A2B04A85BBA6417B9D2EDE90D",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Frimu Valeriu.crt",
+      "filename": "Frimu Valeriu.crt",
+      "sha256": "3B80F4D34472261BC2B65CDFF1415A7E5BE57482D8284438209D959913426674",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Global Reabilitation.pdf",
+      "filename": "Global Reabilitation.pdf",
+      "sha256": "61F298D3EA574088DF312EA26CA5542D74A77A5A53FF212ACFF0BC8AD92FFDD4",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Negru - falce.pdf",
+      "filename": "Negru - falce.pdf",
+      "sha256": "16A1A835E8611C49C35164A36F0167C14E8161228E56954DEED85CA541ABE7A9",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Negru - falce.signed.pdf",
+      "filename": "Negru - falce.signed.pdf",
+      "sha256": "961E8A6DE0BC9CE2547FECCF263A688CD9AB9CD7A5DCB8BB91B46FAA18106670",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\opencode_recovery.ps1",
+      "filename": "opencode_recovery.ps1",
+      "sha256": "C24127B30DCBA1E05F414ABDA3A69B00D4D9A375E6631050F4B3A6727B9146F4",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\parse_apostille.ps1",
+      "filename": "parse_apostille.ps1",
+      "sha256": "34C65B0AE8F6FEDB1B8B34C28173876D91A5FA589098F918F9B14B175A1012D0",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-07_140647.pdf",
+      "filename": "Scanner_X_2026-01-07_140647.pdf",
+      "sha256": "AC6587A7311AF2CD71376B2095917E83748E8D1C77FC6451D4F4E49AB2EB9493",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-07_140700.pdf",
+      "filename": "Scanner_X_2026-01-07_140700.pdf",
+      "sha256": "2BE37C51984791889F38E345AA6E23CE0F8731605D5D37BA256BA53F991F1E8D",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-08_221616.pdf",
+      "filename": "Scanner_X_2026-01-08_221616.pdf",
+      "sha256": "E37FE8298AF0BEB5D0A7EC6C2AE7B9B49DF43AB78B4867B2D197F22A80E379B7",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-15_124146.pdf",
+      "filename": "Scanner_X_2026-01-15_124146.pdf",
+      "sha256": "DAABDB5277E92199292412808E7289FA037F43ABFCFBCB056CC15D03989430CE",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223702.pdf",
+      "filename": "Scanner_X_2026-01-31_223702.pdf",
+      "sha256": "92D83DC275ECD4698AFE83881F3BD8CAEAA5B38217895FB7C9089093B5C15C37",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Secretariat Constitutionala.pdf",
+      "filename": "Secretariat Constitutionala.pdf",
+      "sha256": "A8FE9EA786ACB8DCB3DF7ACBE0A9144D8998F3EE1F3093075F3C1BC5FB38D328",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\SUMMARY.pdf",
+      "filename": "SUMMARY.pdf",
+      "sha256": "CEC357CE9EA3D77DEFD02FA2561A808DA7B094F7995840DD6C08B6A1C2D5B53D",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\target file has an error.pdf",
+      "filename": "target file has an error.pdf",
+      "sha256": "39CC081C298A2BC7E96FAE39079DB8AF9657D5EDCBA0C7375A46E7D46CB4DEED",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\test_opencode.js",
+      "filename": "test_opencode.js",
+      "sha256": "0A4CB69E58AAAFD290D9AF2FA2742A9DBCEF7F4E42F99606A498BD715E627FA4",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\test_opencode.ps1",
+      "filename": "test_opencode.ps1",
+      "sha256": "6A3AD039269954B630EA926DF524BF0DADCD901B7C0760CE5EA5A3C6FB9358B3",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\ultra_mega_archive.json.txt",
+      "filename": "ultra_mega_archive.json.txt",
+      "sha256": "4881BCF3572A186E103C415E64F22B1E85306C3B4589BCBD6020C1119DF66331",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\unified_pdf_summaries.json",
+      "filename": "unified_pdf_summaries.json",
+      "sha256": "DF8719A017F47781CB1025524142AFABDE3F21273DE3D31C7A51600F8C116E3B",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\Grigoras.pdf",
+      "filename": "Grigoras.pdf",
+      "sha256": "76BD7E1BAF75BC836529826DA6768D9D1FC77A7A2B42687520EE05854B8553D2",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\Scanner_X_2026-01-05_003919_1.jpg",
+      "filename": "Scanner_X_2026-01-05_003919_1.jpg",
+      "sha256": "A53489BAC64E3BBB92C9B0510AFFDE2719C30CBD7EE6C47569585417476C3E00",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\Scanner_X_2026-01-05_003919_2.jpg",
+      "filename": "Scanner_X_2026-01-05_003919_2.jpg",
+      "sha256": "714062EA04D1C184F1034584F998107FC215848CE9DD59BE0D96CB991BD663AF",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\Scanner_X_2026-01-05_003919_3.jpg",
+      "filename": "Scanner_X_2026-01-05_003919_3.jpg",
+      "sha256": "2D3AA8359911519B182D31D8C9080B30F9B35869742BECD2454A2A11DA63339C",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\Scanner_X_2026-01-05_003919_4.jpg",
+      "filename": "Scanner_X_2026-01-05_003919_4.jpg",
+      "sha256": "04F198485CD0D18E1AA3C6B7BC793FACD1ABB94A6028361F5BB1635F0C70A8A6",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\Scanner_X_2026-01-05_003919_5.jpg",
+      "filename": "Scanner_X_2026-01-05_003919_5.jpg",
+      "sha256": "F5476437742644B7BEC6BB918820CAD26B66E681B2B76DB20732B2217C1E753B",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\Scanner_X_2026-01-05_003919_6.jpg",
+      "filename": "Scanner_X_2026-01-05_003919_6.jpg",
+      "sha256": "5787E770A3C6082EE8AB6630F389F8D71D653ABF8427BD53B793C49C7410C5A9",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\Scanner_X_2026-01-05_003919_7.jpg",
+      "filename": "Scanner_X_2026-01-05_003919_7.jpg",
+      "sha256": "CD53FEF7BA9C0E2110DF6C0E313BAED0E9DBAAEE490C0E43F38335779BEA12EF",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\Scanner_X_2026-01-05_003919_8.jpg",
+      "filename": "Scanner_X_2026-01-05_003919_8.jpg",
+      "sha256": "E841D8B6654E0E18DD0A3E53F3D8CF00EF9C8589F3A5B5BAFCF41B6392731263",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\Scanner_X_2026-01-05_003919_9.jpg",
+      "filename": "Scanner_X_2026-01-05_003919_9.jpg",
+      "sha256": "439BAB3CB7FEC5E883D4637267697585F2FE2C2E81729813AA25510E654AC921",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\ilovepdf-image-to-pdf\\Scanner_X_2026-01-05_003919_1.pdf",
+      "filename": "Scanner_X_2026-01-05_003919_1.pdf",
+      "sha256": "C6BB03926E86EAF51BC1D4988523280BA744D39B3A8419C87E76EF615B4A582F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\ilovepdf-image-to-pdf\\Scanner_X_2026-01-05_003919_2.pdf",
+      "filename": "Scanner_X_2026-01-05_003919_2.pdf",
+      "sha256": "39C04B60FAFD151EE7137FD31227A55D56726B0458565BB4E292B6F006F31B1C",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\ilovepdf-image-to-pdf\\Scanner_X_2026-01-05_003919_3.pdf",
+      "filename": "Scanner_X_2026-01-05_003919_3.pdf",
+      "sha256": "D215928226B36480C82E18C33196A69A290699E36787E82767F991FFB31DA487",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\ilovepdf-image-to-pdf\\Scanner_X_2026-01-05_003919_4.pdf",
+      "filename": "Scanner_X_2026-01-05_003919_4.pdf",
+      "sha256": "93FC3387C8BC16ACDBCF945EE1981DC2E78F07ACBE16BA4D48CC9D810D516C89",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\ilovepdf-image-to-pdf\\Scanner_X_2026-01-05_003919_5.pdf",
+      "filename": "Scanner_X_2026-01-05_003919_5.pdf",
+      "sha256": "F180DA359237254603EFD35CDF92A9C452B138615B99A3B83E88484115857F4E",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\ilovepdf-image-to-pdf\\Scanner_X_2026-01-05_003919_6.pdf",
+      "filename": "Scanner_X_2026-01-05_003919_6.pdf",
+      "sha256": "08085109737A1AA9D321FBFE43438BFA40D7929A3F6FA40AD190D3CB130079C7",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\ilovepdf-image-to-pdf\\Scanner_X_2026-01-05_003919_7.pdf",
+      "filename": "Scanner_X_2026-01-05_003919_7.pdf",
+      "sha256": "542CE0D6BDB0B734BCB1ADF0A0B23ECC31A813002120EB4FCE27DA14760D354D",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\ilovepdf-image-to-pdf\\Scanner_X_2026-01-05_003919_8.pdf",
+      "filename": "Scanner_X_2026-01-05_003919_8.pdf",
+      "sha256": "63F37710082E961CDBFA996FC5FDBA0C349500951D9E803B1FD3C21048903413",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_003919\\ilovepdf-image-to-pdf\\Scanner_X_2026-01-05_003919_9.pdf",
+      "filename": "Scanner_X_2026-01-05_003919_9.pdf",
+      "sha256": "45765A137C0DF50B21FB978DC85DEC52D1DEA03999CCEF3BA622A1BF8F6C4196",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_222139\\Scanner_X_2026-01-05_222139_1.jpg",
+      "filename": "Scanner_X_2026-01-05_222139_1.jpg",
+      "sha256": "9E993C69EE321FE9C46711CE04A71BCB63039725ABF094F8ABA52A484E56502A",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-05_222139\\Scanner_X_2026-01-05_222139_2.jpg",
+      "filename": "Scanner_X_2026-01-05_222139_2.jpg",
+      "sha256": "E8F81EF6504B1AC791553AAF0803F740600F8BD692AC209F1A0D51128B108759",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-07_140734\\Scanner_X_2026-01-07_140734_1.jpg",
+      "filename": "Scanner_X_2026-01-07_140734_1.jpg",
+      "sha256": "D4A0E892A6CEDAB150C84BE5FC9BE92FF3A9E766975FACA8CE276D861EE93488",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-07_140734\\Scanner_X_2026-01-07_140734_2.jpg",
+      "filename": "Scanner_X_2026-01-07_140734_2.jpg",
+      "sha256": "EA07319B20C9025959765AF1B78123C8E12BA6FED84AF9EC8A2227A3B16B3FA2",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-07_140734\\Scanner_X_2026-01-07_140734_3.jpg",
+      "filename": "Scanner_X_2026-01-07_140734_3.jpg",
+      "sha256": "F19BFDFCDBD6E0B14C53112E91E4EF3ED013261D10600A08333A7DCCF5CEAA44",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-21_140315\\Scanner_X_2026-01-21_140315_1.jpg",
+      "filename": "Scanner_X_2026-01-21_140315_1.jpg",
+      "sha256": "FEC27785687D41B972C5AEA087DFB27906C1BC9FAEEA85A595DB912ABD5AA208",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-21_141934\\Scanner_X_2026-01-21_141934_1.jpg",
+      "filename": "Scanner_X_2026-01-21_141934_1.jpg",
+      "sha256": "C4DE7984A6EFD5E4F04B03D866E914B2636639B9130C9F40637ECE9B5CB015FC",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-21_141934\\Scanner_X_2026-01-21_141934_2.jpg",
+      "filename": "Scanner_X_2026-01-21_141934_2.jpg",
+      "sha256": "D856AADA37828EA729DD7EA13855DCDFFE5FE74850BACAE99B5DE7B0ED3F8911",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-21_141934\\Scanner_X_2026-01-21_141934_3.jpg",
+      "filename": "Scanner_X_2026-01-21_141934_3.jpg",
+      "sha256": "04A47C6B04270469239D20E294B1C7CEF342590CB2622A7229C20305A72A1EFD",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-21_141934\\Scanner_X_2026-01-21_141934_4.jpg",
+      "filename": "Scanner_X_2026-01-21_141934_4.jpg",
+      "sha256": "0028AA882B469B4D7AD3B5ECD93CD3B6B1AEDC469A28E6FE6A04CBC55604DA24",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-21_150323\\Scanner_X_2026-01-21_150323_1.jpg",
+      "filename": "Scanner_X_2026-01-21_150323_1.jpg",
+      "sha256": "586E382C8F1640D50A04CC2D4AED019C34ADBE6B53A8D3CFB014AFA5282019DD",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Имена судей которые отвечают за гибель сотен и тысяч граждан _имена которые   должны знать.pdf",
+      "filename": "Имена судей которые отвечают за гибель сотен и тысяч граждан _имена которые   должны знать.pdf",
+      "sha256": "F7471782983FC9189467C2C76FDBE7ECE37A9100DD402C44595C410D7710A973",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Имена судей которые отвечают за гибель сотен и тысяч граждан _имена которые   должны знать.signed.pdf",
+      "filename": "Имена судей которые отвечают за гибель сотен и тысяч граждан _имена которые   должны знать.signed.pdf",
+      "sha256": "B24A2EE355A114A0D588DA3FDD25CF5E7BDDC1467628AF9DC29CA06CB9DC03B1",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Неизбежный ВК.pdf",
+      "filename": "Неизбежный ВК.pdf",
+      "sha256": "799656A361C155505FD6E0F9D1E0793733E9D04BB8DEA48D2F4C0295CB500638",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Файл для Суда сектор Центр и Буюканы.signed..pdf",
+      "filename": "Файл для Суда сектор Центр и Буюканы.signed..pdf",
+      "sha256": "0D3C322A83E3F2251D4BE3A9E9A53078EC444F26BCDFCF67657322E99276AE94",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_1-pdfa.pdf",
+      "filename": "Scanner_X_2026-01-31_223745_1-pdfa.pdf",
+      "sha256": "DF894964A49FFFD6B80A6E2F752E2050D6A7228F7DF134A961CC6694CA88CDAC",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_1.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_1.jpg",
+      "sha256": "D3542B27E11C1853A9BCC5C124EF3C13708DAF453D8586BC3CE6FC58AA51B110",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_1.pdf",
+      "filename": "Scanner_X_2026-01-31_223745_1.pdf",
+      "sha256": "B486920A5BD19D701181302AFAA360602F19BF40185A4BF8475E8B235E263A28",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_10.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_10.jpg",
+      "sha256": "64A3138BD07219219B49C99CB7B96D28600EB2CCDC263AAE8B5DD4D1E941EAC5",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_11.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_11.jpg",
+      "sha256": "359D82DFE49AC2882F169D7E52B1040B529CD0B2D8A3652410960D573CF7D9D0",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_12.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_12.jpg",
+      "sha256": "D31708081E1FB127E8CAB87CEFCE2453465CB2B535AB793014EFF7A369D5A67B",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_13.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_13.jpg",
+      "sha256": "E05BAB5B3FA3A750AF1EC50D2A5B93A3964B9436AC95E9220576A1586AB67CC6",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_14.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_14.jpg",
+      "sha256": "EB504E558FDDC806D0A8135C8E85E1141BF95CD9655E72A4AFB33D4DF4E85A16",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_15.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_15.jpg",
+      "sha256": "1D4D77E4201B791B807FF2726D15D53B6371E75A90881FC42CE831D85769B9B8",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_2.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_2.jpg",
+      "sha256": "47B303FA11F1A5ACC2DB70E155791E213FE0953114ECA6C6FDD92BFF6CAAED53",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_3.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_3.jpg",
+      "sha256": "D80E914510D273BEF66237BBB6EBD53299B11993B91125CDC353BE24B069DCE3",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_4.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_4.jpg",
+      "sha256": "4961CDDE97677673E7A1525C57804E76DA08670719302845A47EB076AD60B2C7",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_5.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_5.jpg",
+      "sha256": "53B11D66985D6ED28632C24DD851F44DD973AC5401D22F97A4D29D23BFD05DC2",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_6.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_6.jpg",
+      "sha256": "022A16ED75A806FC9F7E8E87728E69B686DED84E7BB09D572B49A0E447CC3E5E",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_7.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_7.jpg",
+      "sha256": "2EC3BA320582FFD2B404403AF1A0A6E14BED78E0943E33F8825E03B8D1E18230",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_8.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_8.jpg",
+      "sha256": "F5CBA6FFDA76C55B00CC31022A243B6708DE9BD061EAA7A07C170700E9977F76",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_223745\\Scanner_X_2026-01-31_223745_9.jpg",
+      "filename": "Scanner_X_2026-01-31_223745_9.jpg",
+      "sha256": "CEE23B2AFD26AE8B44C24C018B8A58A2BED471CA3F454F26BC934A1FF70D3B84",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-01-31_230547\\Scanner_X_2026-01-31_230547_1.jpg",
+      "filename": "Scanner_X_2026-01-31_230547_1.jpg",
+      "sha256": "52853C82786B08AA15546F9CE6DF6558907A920872D6A8F0D5A1059CDA1C1C6A",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-03_113120\\Scanner_X_2026-02-03_113120_1.png",
+      "filename": "Scanner_X_2026-02-03_113120_1.png",
+      "sha256": "A11CB780967048344E97272DDF238B6E275B92C84867B2167BFC2F397657DB69",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-03_114751\\Scanner_X_2026-02-03_114751_1.jpg",
+      "filename": "Scanner_X_2026-02-03_114751_1.jpg",
+      "sha256": "80F51F20C0880725212CF53A1CC293B961A933C86C24A702CE173DE549CFD574",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-03_114751\\Scanner_X_2026-02-03_114751_2.jpg",
+      "filename": "Scanner_X_2026-02-03_114751_2.jpg",
+      "sha256": "34FB658F4050B0BEF74F81A146A430D8B797B67F55B715B29CF32E00CE168BF0",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_141230\\Scanner_X_2026-02-05_141230_1.jpg",
+      "filename": "Scanner_X_2026-02-05_141230_1.jpg",
+      "sha256": "34700B56D38DDEA9339855F6D2B5A594C5974A88D3E73B34D86BD09504B24A90",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_141230\\Scanner_X_2026-02-05_141230_2.jpg",
+      "filename": "Scanner_X_2026-02-05_141230_2.jpg",
+      "sha256": "0E0B5A44585F6B79EDE996F8FE68D9A3AF99D7D9445C8BAFF785B3BA24B71CD5",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_141230\\Scanner_X_2026-02-05_141230_3.jpg",
+      "filename": "Scanner_X_2026-02-05_141230_3.jpg",
+      "sha256": "252F3F49D2BB51E17184A31017B501ABF0C274BF895A4DD0D9F59E6BD5B10970",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_141230\\Scanner_X_2026-02-05_141230_4.jpg",
+      "filename": "Scanner_X_2026-02-05_141230_4.jpg",
+      "sha256": "E92E73FFBD186511093AA21198CD31674DC6D21483EFC26136E2DC7719347742",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_141230\\Scanner_X_2026-02-05_141230_5.jpg",
+      "filename": "Scanner_X_2026-02-05_141230_5.jpg",
+      "sha256": "C978FE883485E9418FD79F76C7D8FF3DC5C3D375C4AF4FD9814C1C588C527035",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_142102\\Scanner_X_2026-02-05_142102_1.pdf",
+      "filename": "Scanner_X_2026-02-05_142102_1.pdf",
+      "sha256": "C4D4E82EEA249BD8E5A00E06AC20B51FFDB431C1AA8FBC23A9D0B262D721DB84",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_142102\\Scanner_X_2026-02-05_142102_1.png",
+      "filename": "Scanner_X_2026-02-05_142102_1.png",
+      "sha256": "6388DC735C74A3CE1F4F1249610201EF3721C85FD4FFCA6FE0E2F21955B39DA0",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_142102\\Scanner_X_2026-02-05_142102_2.pdf",
+      "filename": "Scanner_X_2026-02-05_142102_2.pdf",
+      "sha256": "0D60A47BB625752442AAF43B82AF0FD8CA9BA1E5D907365AF3846BBCC1F961D1",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_142102\\Scanner_X_2026-02-05_142102_2.png",
+      "filename": "Scanner_X_2026-02-05_142102_2.png",
+      "sha256": "E2B477B422CC53C5013FB7260016F2B779CACB7C267D72DF216CC02151E6F68F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_142102\\Scanner_X_2026-02-05_142102_3.pdf",
+      "filename": "Scanner_X_2026-02-05_142102_3.pdf",
+      "sha256": "B7396B825164CE1C2E35D1D548C8DA656D42EDD3D3E06D0687A480E3E65C2BD9",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_142102\\Scanner_X_2026-02-05_142102_3.png",
+      "filename": "Scanner_X_2026-02-05_142102_3.png",
+      "sha256": "BE169651D856AD09E3D5720BE6F934A0E39121956EC8B846187297CB07090E3A",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_142102\\Scanner_X_2026-02-05_142102_4.png",
+      "filename": "Scanner_X_2026-02-05_142102_4.png",
+      "sha256": "4AFF1598EBE2E730B2E393E9A57EE7A8ED54ECFBBFE318C5E49E525BFF274920",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_142102\\Scanner_X_2026-02-05_142102_5.pdf",
+      "filename": "Scanner_X_2026-02-05_142102_5.pdf",
+      "sha256": "7647D21411E1006561228D3D5D886F7385B1F57835EA467A3D1776717724B950",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_142102\\Scanner_X_2026-02-05_142102_5.png",
+      "filename": "Scanner_X_2026-02-05_142102_5.png",
+      "sha256": "ABC862AD48A0A7A15884E492B235752093318F9CC3EF818887C091BF88695A5E",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_145949\\Scanner_X_2026-02-05_145949_1.jpg",
+      "filename": "Scanner_X_2026-02-05_145949_1.jpg",
+      "sha256": "34700B56D38DDEA9339855F6D2B5A594C5974A88D3E73B34D86BD09504B24A90",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_145949\\Scanner_X_2026-02-05_145949_2.jpg",
+      "filename": "Scanner_X_2026-02-05_145949_2.jpg",
+      "sha256": "0E0B5A44585F6B79EDE996F8FE68D9A3AF99D7D9445C8BAFF785B3BA24B71CD5",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_145949\\Scanner_X_2026-02-05_145949_3.jpg",
+      "filename": "Scanner_X_2026-02-05_145949_3.jpg",
+      "sha256": "252F3F49D2BB51E17184A31017B501ABF0C274BF895A4DD0D9F59E6BD5B10970",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_145949\\Scanner_X_2026-02-05_145949_4.jpg",
+      "filename": "Scanner_X_2026-02-05_145949_4.jpg",
+      "sha256": "E92E73FFBD186511093AA21198CD31674DC6D21483EFC26136E2DC7719347742",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_145949\\Scanner_X_2026-02-05_145949_5.jpg",
+      "filename": "Scanner_X_2026-02-05_145949_5.jpg",
+      "sha256": "C978FE883485E9418FD79F76C7D8FF3DC5C3D375C4AF4FD9814C1C588C527035",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_145949\\Scanner_X_2026-02-05_145949_6.jpg",
+      "filename": "Scanner_X_2026-02-05_145949_6.jpg",
+      "sha256": "BDE94741FEF5F066877CAEC6A6B83F8A8A4A178BCEEBC9A8AA66F4A9DC8C58D9",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_222202\\Scanner_X_2026-02-05_222202_1.jpg",
+      "filename": "Scanner_X_2026-02-05_222202_1.jpg",
+      "sha256": "CF175EB94A9F70FE9BF5980C9D7EBA1B9D075F26138097D93FDE0F94EF1C927F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_222202\\Scanner_X_2026-02-05_222202_2.jpg",
+      "filename": "Scanner_X_2026-02-05_222202_2.jpg",
+      "sha256": "14803A962A8923704F92FBF564F59A080F43AFD638BAB522151768329692213D",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-05_222552\\Scanner_X_2026-02-05_222552_1.jpg",
+      "filename": "Scanner_X_2026-02-05_222552_1.jpg",
+      "sha256": "A7AE180E7C587AC88CEFCE937670FD519F6244C30C045EFA7D5288EA5AE62180",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-06_003056\\Scanner_X_2026-02-06_003056_1.jpg",
+      "filename": "Scanner_X_2026-02-06_003056_1.jpg",
+      "sha256": "DEAA627CBC4ADCFC5524CC2D6BC8D9AE6BDD476B020E3923ACE62C21A07B05DF",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-06_003056\\Scanner_X_2026-02-06_003056_2.jpg",
+      "filename": "Scanner_X_2026-02-06_003056_2.jpg",
+      "sha256": "7F04DDD398459E2A17619E8E14E33CB17A8A30E9D97C2ECBA850834FCC9E553C",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-11_123117\\Scanner_X_2026-02-11_123117_1.jpg",
+      "filename": "Scanner_X_2026-02-11_123117_1.jpg",
+      "sha256": "5CB45666E55B7F2A7DB48F255F5590849AD757A88206762BF213579FEB455DD9",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-11_123117\\Scanner_X_2026-02-11_123117_2.jpg",
+      "filename": "Scanner_X_2026-02-11_123117_2.jpg",
+      "sha256": "762089B00623B1F5F4045C7E8C86105A7CA977416BFAA64200C91172F2A9532D",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-11_123117\\ilovepdf-image-to-pdf\\Prin intermediul Curții de Apel, în conformitate cu limba utilizată într-unul dintre.signed.signed.pdf",
+      "filename": "Prin intermediul Curții de Apel, în conformitate cu limba utilizată într-unul dintre.signed.signed.pdf",
+      "sha256": "A827ADDB384CB21B12A130F92F1F35D6656605BBA6F663322352787AEA9A7C20",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-11_123117\\ilovepdf-image-to-pdf\\Scanner_X_2026-02-11_123117_1.pdf",
+      "filename": "Scanner_X_2026-02-11_123117_1.pdf",
+      "sha256": "6DB64458D9AF34380871B84F8D2FD43CA4FD9512C9BF2EACB5FC3F93D96527D6",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-11_123117\\ilovepdf-image-to-pdf\\Scanner_X_2026-02-11_123117_2.pdf",
+      "filename": "Scanner_X_2026-02-11_123117_2.pdf",
+      "sha256": "D8BCAE0F7A1CA5ED88C54540F692087E4D615DD716D5B41DC5BECD116D4C2C05",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-12_085518\\В отношении преследуемой Олейник Лица завяленной через КС.pdf",
+      "filename": "В отношении преследуемой Олейник Лица завяленной через КС.pdf",
+      "sha256": "96B8A650B29F4A788E1E518F87D40E85FC42C23D6EFA04A12C9C1A1789202616",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-12_085518\\В отношении преследуемой Олейник Лица завяленной через КС.signed.pdf",
+      "filename": "В отношении преследуемой Олейник Лица завяленной через КС.signed.pdf",
+      "sha256": "685831843D01EDF40AC904D42FD8051CA621B5080019766AC56A051339B9D637",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-12_085518\\Scanner_X_2026-02-12_085518_1.jpg",
+      "filename": "Scanner_X_2026-02-12_085518_1.jpg",
+      "sha256": "4CFDB832893CD9E5312084E2AF63C545A21DEF6FE8B13134847269C5DC87125A",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-12_085518\\Scanner_X_2026-02-12_085518_2.jpg",
+      "filename": "Scanner_X_2026-02-12_085518_2.jpg",
+      "sha256": "45B979B304E04780E79C4EAF35403DADC6B2DF4C739281D7332DEFB6763EB20A",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-12_085518\\Scanner_X_2026-02-12_085518_3.jpg",
+      "filename": "Scanner_X_2026-02-12_085518_3.jpg",
+      "sha256": "69CFD16F854B53B59C1A960E6F8BAAF08FE78CAB7A6C7EBD70546110CF129D5F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-12_085518\\Scanner_X_2026-02-12_085518_4.jpg",
+      "filename": "Scanner_X_2026-02-12_085518_4.jpg",
+      "sha256": "4BDF0E5C141F6A2144F00F52E12B3D030CC8945A66265E4C0B9582B64D5A7C7E",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-12_085518\\Scanner_X_2026-02-12_085518_5.jpg",
+      "filename": "Scanner_X_2026-02-12_085518_5.jpg",
+      "sha256": "8C3374D311A86A6B29111431CD5B4CF96B7184015F8291A66A2F4C084F385F54",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-12_085518\\Scanner_X_2026-02-12_085518_6.jpg",
+      "filename": "Scanner_X_2026-02-12_085518_6.jpg",
+      "sha256": "CAA3891B1A2F0B9CA16F15108F19294F2C56ABEAF88D840EAD34F75CA79CD95F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-12_085518\\Scanner_X_2026-02-12_085518_7.jpg",
+      "filename": "Scanner_X_2026-02-12_085518_7.jpg",
+      "sha256": "BD06509056F4C560D8F36329C5AC45C50BC8604A6C7D3207FAA3D147B54D8CB5",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-16_173826\\26.03.2026.pdf",
+      "filename": "26.03.2026.pdf",
+      "sha256": "0742B1191BB1F6B41CF25852ABF0BD6E1009BF6AAFB139CF23755D3DB2AEE2A6",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-16_173826\\Citate.26.03.2026.pdf",
+      "filename": "Citate.26.03.2026.pdf",
+      "sha256": "E26976F1095149D6265629154A473CBB34CA2990861ADE710AB6648BFD099DEA",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-16_173826\\Citate.26.03.2026.signed.pdf",
+      "filename": "Citate.26.03.2026.signed.pdf",
+      "sha256": "A6DE6684A9A6B61EE5D74720852E3E91254924218BF55AE610077D872C947E34",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-16_173826\\Scanner_X_2026-02-16_173826_1.png",
+      "filename": "Scanner_X_2026-02-16_173826_1.png",
+      "sha256": "01FB80673B372DB4ACC351D9DF68EE5DB8C0CEFB5720DF152CEE7C81CF23D2A9",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-16_173826\\Scanner_X_2026-02-16_173826_2.png",
+      "filename": "Scanner_X_2026-02-16_173826_2.png",
+      "sha256": "48245CC17113D95C0C7A041AF041A81ADBD1D9120E50CE55FB1E47A82C2A5DFC",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-16_173826\\Scanner_X_2026-02-16_173826_3.png",
+      "filename": "Scanner_X_2026-02-16_173826_3.png",
+      "sha256": "2F9E6D1C8F04F13C4F9432B2623F930064F1AA482F87E2CD4F65A6F54CDD9BD4",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-16_173826\\Scanner_X_2026-02-16_173826_4.png",
+      "filename": "Scanner_X_2026-02-16_173826_4.png",
+      "sha256": "17937B18F27E31F0FEB73956C724F3A7C296F923DB60092C97FA3E9118F9DA87",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-16_173826\\Scanner_X_2026-02-16_173826_5.png",
+      "filename": "Scanner_X_2026-02-16_173826_5.png",
+      "sha256": "533B9C82F0CEB66601FB1E7B024400281BBBF073C905D63D891A237475AACAC9",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-17_165528\\Către Judecătoria Chişinău, sediul Rîşcani mun. Chişinău.pdf",
+      "filename": "Către Judecătoria Chişinău, sediul Rîşcani mun. Chişinău.pdf",
+      "sha256": "83E32C3E2C4CDD8F8DB6009E6D697992A277F24956CAAF5F0E51BCEA58AD9E86",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-17_165528\\Către Judecătoria Chişinău, sediul Rîşcani mun. Chişinău.signed.pdf",
+      "filename": "Către Judecătoria Chişinău, sediul Rîşcani mun. Chişinău.signed.pdf",
+      "sha256": "5F9EE4D657BF4C4A41194A95A609E98CC702A972DF752C97178284B07898949A",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-17_165528\\Scanner_X_2026-02-17_165528_1.png",
+      "filename": "Scanner_X_2026-02-17_165528_1.png",
+      "sha256": "32515A3CB86AAF6D2ECCD63B963EBFA56AC730024A1B710C4A8FA7D494823594",
+      "mcp_role": "AUTHENTIC_IDENTITY"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-17_165528\\Scanner_X_2026-02-17_165528_2.png",
+      "filename": "Scanner_X_2026-02-17_165528_2.png",
+      "sha256": "28A3950FD4D6E405D3A4EF42D4D4484F830CCA69045C626ED29B8FDDA1263200",
+      "mcp_role": "AUTHENTIC_IDENTITY"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-17_171813\\Scanner_X_2026-02-17_171813_1.png",
+      "filename": "Scanner_X_2026-02-17_171813_1.png",
+      "sha256": "2A47ACD3C6B9043096F49A15806A54188D8666EEE421CA3904770B2542C0A507",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-17_171813\\Scanner_X_2026-02-17_171813_2.png",
+      "filename": "Scanner_X_2026-02-17_171813_2.png",
+      "sha256": "F9D2787061B6F2F93609062175BBFC1FFAC30365BFFFCD18A111FBBA6ACACCAE",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-17_171813\\Scanner_X_2026-02-17_171813_3.png",
+      "filename": "Scanner_X_2026-02-17_171813_3.png",
+      "sha256": "7E41237CCF044E76331E41E34763EACE51553AD7A734B4DAC4974CDACC60546B",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-17_171813\\Scanner_X_2026-02-17_171813_4.png",
+      "filename": "Scanner_X_2026-02-17_171813_4.png",
+      "sha256": "585A6105ABB5B8F1C4B7B8991F5B890DF20F7C59D27D6303AC13DA5888755C6B",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-17_171813\\We Have Received Your Message.pdf",
+      "filename": "We Have Received Your Message.pdf",
+      "sha256": "E06BFFE0F979116DC449286F08FFB61F2637D8A49094A2F0A21DE28F056157A7",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Scanner_X_2026-02-17_171813\\We Have Received Your Message.signed.pdf",
+      "filename": "We Have Received Your Message.signed.pdf",
+      "sha256": "A5C9B40989525E728179402F53FA51750E011D99529B75A658C2D9304B6788F2",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\{.txt.json",
+      "filename": "{.txt.json",
+      "sha256": "0FF67E13672ADA78E7398ED66EDB72DC4399E0AD746D87F2BC55A0842DAF1EAD",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\{.txt.txt",
+      "filename": "{.txt.txt",
+      "sha256": "0FF67E13672ADA78E7398ED66EDB72DC4399E0AD746D87F2BC55A0842DAF1EAD",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\Суд Рышкановка суду Лупашку Наталье _com.signed.signed.txt",
+      "filename": "Суд Рышкановка суду Лупашку Наталье _com.signed.signed.txt",
+      "sha256": "312A0AE91085BE71D5955A90545ED02ECB7A4229A1E70887F0C112964B5B4813",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\A_Negru_din_Macheret.pdf",
+      "filename": "A_Negru_din_Macheret.pdf",
+      "sha256": "A514170395974291F6F1CCE0EC17C19836C41D9470B0FE40CED533AE36628677",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\a_tor_protection_system.yaml",
+      "filename": "a_tor_protection_system.yaml",
+      "sha256": "EB9D7B4DBF44E0C5073B80770E4CD0F1E447ED3C7369512A372C3EBC0FBC19F8",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\A©tor_Foundation.json",
+      "filename": "A©tor_Foundation.json",
+      "sha256": "FDBD90C6355BF078CBECCECF0F633E021B0FF291AE5D7651615DF5E65EE31077",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\abbey_ocr_correction.py",
+      "filename": "abbey_ocr_correction.py",
+      "sha256": "BE5408B49D7058D7C8CAF2C32045EF237C6B22F3FCEB5605671B048023CAC5B4",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\abbey_ocr_corrector.py",
+      "filename": "abbey_ocr_corrector.py",
+      "sha256": "F15A64E3D733442C6698318A74965379BEE9356DB1DBC4C2B43723463FFDECD9",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\abbey_style_ocr_system.py",
+      "filename": "abbey_style_ocr_system.py",
+      "sha256": "8A0EE7851ADAA802573C954CB6C05823C87F3500EA899287CBADED02B3A6E62C",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\abbyy_ocr_corrector.py",
+      "filename": "abbyy_ocr_corrector.py",
+      "sha256": "805A16AB31E64004AB3299B13C88DEFD511B86881063340E76ED474A423F1618",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\assemble.py",
+      "filename": "assemble.py",
+      "sha256": "E177F8EA1AB809FFEEDA6B7B02D4BA0E5CCE7F6F4340C37C5B15E29E9708DE14",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\combined_correction_report_20260126_212244.md",
+      "filename": "combined_correction_report_20260126_212244.md",
+      "sha256": "1D7105C556B216809B1FE569EE4C3A8D1D5A5B9910271C3B4EBF29E3F00FA2AC",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\combined_pdf_summaries_corrected_20260126_212243.json",
+      "filename": "combined_pdf_summaries_corrected_20260126_212243.json",
+      "sha256": "1703A58C18AC3EAF8F8D59F720AEC49AA730CC0ECE931F3DC566C4B8C982791A",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\combined_pdf_summaries.json",
+      "filename": "combined_pdf_summaries.json",
+      "sha256": "64B45A5713A9A5C8FB92DF1D691050BE4E90E60591ED973E1E8AEC8BAB355AB3",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\FINAL_COMPLETION_REPORT.md",
+      "filename": "FINAL_COMPLETION_REPORT.md",
+      "sha256": "2832B9756671270ACD8ADD6907E28ACC500A00322BB5210DFC503534A9F4B178",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\fix_ocr_final.py",
+      "filename": "fix_ocr_final.py",
+      "sha256": "76AB77673DE01002CF39288B7802A40164E9158FBBD65ACC3074264A5A863383",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\json_viewer.py",
+      "filename": "json_viewer.py",
+      "sha256": "4FFD57CBF5BEE5AE673D29E2C02932F917AAEC6EE46FDA0502807A2797449203",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\ocr_correction_dictionary.json",
+      "filename": "ocr_correction_dictionary.json",
+      "sha256": "CF8D4551832C3F40AEB96A4053E5B24C754883A7CAB45EFDD078E53B89937BD8",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\OCR_Correction_Report.txt",
+      "filename": "OCR_Correction_Report.txt",
+      "sha256": "F1D2AA3F1245DFC25BCE8236377D3D8C60F3D90258D93C6D3392219466A1480F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\process_ocr_corrections.py",
+      "filename": "process_ocr_corrections.py",
+      "sha256": "0651BE75990B3367B23B9512372D57A027D20C72EA241F20F362079C913EF7F9",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\READABLE_CASE_ARCHIVE.json",
+      "filename": "READABLE_CASE_ARCHIVE.json",
+      "sha256": "3DBBF00021E2149A090CB301CE90866A1198B5080401CBB8A3BE1F6184BE0428",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\README_json_viewer.md",
+      "filename": "README_json_viewer.md",
+      "sha256": "439EA3C74924DD3DD98213AE98632553C47ED4839EBCB8793038D5A295ED1004",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\README_OCR_CORRECTION.md",
+      "filename": "README_OCR_CORRECTION.md",
+      "sha256": "70C8425E0079D4B7E4F9DA02EB4C019134F0AE9CD3EAA824A49BE89299BFEB92",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\README_TI-ULA_A©tor.md",
+      "filename": "README_TI-ULA_A©tor.md",
+      "sha256": "4FAC18EE0304C38A3C620E055AACFACD26F2316B5B6847E29671743EFAA41D66",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\restore_winget.ps1",
+      "filename": "restore_winget.ps1",
+      "sha256": "1C129A1BF23B5F2765ED210E4740F84FE072422BB2B6B73CFDB96943427B00A6",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE_CORRECTED_correction_log.json",
+      "filename": "SAFE_LEGAL_ARCHIVE_CORRECTED_correction_log.json",
+      "sha256": "2E17D66C9A7724A2616500C6E5B26A54CFF10FDAE27A890997FF8E53747441C5",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE_CORRECTED.json",
+      "filename": "SAFE_LEGAL_ARCHIVE_CORRECTED.json",
+      "sha256": "BCAF5D9DB4FA2993F706804081D2B421788CC3225876934FE57A52727C5CD8F6",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\SAFE_LEGAL_ARCHIVE.json",
+      "filename": "SAFE_LEGAL_ARCHIVE.json",
+      "sha256": "85D67BAFC804D8C4790C7FA53212490ED28026A1873111405E90C166A03F1BED",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\setup_abbey_system.bat",
+      "filename": "setup_abbey_system.bat",
+      "sha256": "A56E87C8311084705C2955044BFFB23BB2FA92A816610E3309EA424A8003693B",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\test_json_viewer.py",
+      "filename": "test_json_viewer.py",
+      "sha256": "0D1322B5B0F8F5C2DCD2308A955FDA5CE1FFC2762777ADEE42BF37E594A66BDE",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\transformed_jus_cogens_case_backup_20260126_165959_annotated.json",
+      "filename": "transformed_jus_cogens_case_backup_20260126_165959_annotated.json",
+      "sha256": "6DB96D425C1D7F769B2593411EC1D2306FABF2D9084DE658589EBCACBD8D0A79",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\transformed_jus_cogens_case_backup_20260126_165959_structure_report.json",
+      "filename": "transformed_jus_cogens_case_backup_20260126_165959_structure_report.json",
+      "sha256": "129CF199F754D3ED6BC65162C790A1F4F64EB33D23099A2F44AB57C5C730A967",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\transformed_jus_cogens_case_backup_20260126_165959.json",
+      "filename": "transformed_jus_cogens_case_backup_20260126_165959.json",
+      "sha256": "2C882D72E25B617D00E847C52654D10FE77B20A4D5FF0CE686A428F50DB99F4F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\ultimate_winget_recovery_fixed.ps1",
+      "filename": "ultimate_winget_recovery_fixed.ps1",
+      "sha256": "259A64D8A47A386F621885E6DE6483AD3AA8705F1E32B8D683731F2195629E6F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\ultimate_winget_recovery.ps1",
+      "filename": "ultimate_winget_recovery.ps1",
+      "sha256": "CB6C847F95A9F70A0200C2A34EC82EA81ACC1A0DB6D9EFE91E5A530EFBD6A8D1",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\ultra_mega_archive_streaming_report.json",
+      "filename": "ultra_mega_archive_streaming_report.json",
+      "sha256": "55425602FEAA0933C82E02FBAA355F1734B6CFA669C621FA430983613AF4A3F7",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\winget_configuration.yaml",
+      "filename": "winget_configuration.yaml",
+      "sha256": "5C5724123CD6FABC2D4255DC1288FF147769C7F9791D33B9AC636961FC7D6BAC",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\winget_recovery.ps1",
+      "filename": "winget_recovery.ps1",
+      "sha256": "9D3C13D86B03CEBB85EF27B3D600844031283CE85ABDF13C7C19DCB26B79204F",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\.vscode\\settings.json",
+      "filename": "settings.json",
+      "sha256": "B849942F849BDF6313430DC7C3A0D6FB0ABC563831007F8D821BFB1D0C55A835",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\exports\\Фамилия_manual.txt",
+      "filename": "Фамилия_manual.txt",
+      "sha256": "C26FBC89F4439EF947FA0929FBBDAB6A30B9A86C3E19E66771EAF73CC858DE44",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\exports\\Фамилия.txt",
+      "filename": "Фамилия.txt",
+      "sha256": "29756739B89532B6183CF1FEE14B663282CC81B21CFA493119FE9CC3EB0FCD58",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\exports\\test.txt",
+      "filename": "test.txt",
+      "sha256": "F2CA1BB6C7E907D06DAFE4687E579FCE76B37E4E93B7605022DA52E6CCC26FD2",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\__pycache__\\json_viewer.cpython-312.pyc",
+      "filename": "json_viewer.cpython-312.pyc",
+      "sha256": "23465FCB69490363483711CCA83C8CA85EB494CF650322478A48015C090AD233",
+      "mcp_role": "standard"
+    },
+    {
+      "rel_path": "Downloads\\Защиты\\__pycache__\\json_viewer.cpython-313.pyc",
+      "filename": "json_viewer.cpython-313.pyc",
+      "sha256": "F110DC47DC04BD173F693D7A9AB6EB54B6ACB54E6D6FA54954CAEB8B1787CCE4",
+      "mcp_role": "standard"
+    }
+  ],
+  "master_root": "9a2465bd504a83142e2dacee4fdbc801e64170e2f0a420e19d29588fafed6e77",
+  "identity": "A©tor"
+}

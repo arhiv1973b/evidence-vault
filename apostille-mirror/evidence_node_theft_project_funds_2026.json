@@ -1,0 +1,34 @@
+{
+  "NodeID": "THEFT-PROJECT-FUNDS-2026-05",
+  "Schema": "urn:actor:id:evidence:v2",
+  "Timestamp": "2026-05-15T00:00:00Z",
+  "Author": "A©tor",
+  "CaseRef": "CASE-MACHERET-1997-2026",
+  "EventDate": "2026-04",
+  "EventClass": "CRIMINAL_THEFT_ASSET",
+  "Title": "Хищение средств проекта в счёт иска 520 000 000 EUR",
+  "LegalQualification": {
+    "Primary": "ст. 191 УК РМ — присвоение или растрата (особо крупный размер)",
+    "Secondary": ["ст. 332 УК РМ — служебный подлог", "ст. 189 УК РМ — вымогательство"],
+    "JusCogensLink": "Хищение — прямое следствие 8158-суточного процессуального вакуума. Каскад: вакуум → безнаказанность → хищение активов проекта."
+  },
+  "Facts": {
+    "ClaimAmount_EUR": 520000000,
+    "FinComPayBalance_MDL": 25210256.15,
+    "FinComPayDate": "2026-04",
+    "Method": "Несанкционированное обнуление баланса через принудительную смену карты"
+  },
+  "Evidence": [
+    {"Type": "GOOGLE_DRIVE", "FileId": "1R-OoGas2gyZZp-SFiudukZ2ULoVSlgRw", "Status": "ACTIVE"},
+    {"Type": "GOOGLE_DRIVE", "FileId": "1EOYPJESInZUpD_knBc3eklTkPctpDnIS", "Status": "ACTIVE"},
+    {"Type": "GITHUB_PAGES", "Url": "https://arhiv1973b.github.io/apostille-mirror/jus-cogens-proof-macheret.html"}
+  ],
+  "ProsecutorialDemands": [
+    "Возбудить дело по ст. 191 УК РМ — хищение 25 210 256,15 MDL",
+    "Наложить арест на счета FinComBank/FinComPay",
+    "Обеспечить доступ к цифровым реестрам банка за апрель 2026"
+  ],
+  "MerkleChainRef": "CFC-9a2465bd...e77",
+  "CommitRef": "5b40fda",
+  "Integrity": "PENDING_SHA256_LOCAL_SIGN"
+}

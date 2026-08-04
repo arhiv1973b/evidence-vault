@@ -1,0 +1,34 @@
+[
+  {
+    "Path": "H:\\ACTOR_DEV_ENV\\apostille-mirror\\support.html",
+    "Hash": "55AF5BFF86E7A03E8F293D47B91671CF872EB65EAA43B98073C7973C057049AD"
+  },
+  {
+    "Path": "H:\\ACTOR_DEV_ENV\\apostille-mirror\\update-state.ps1",
+    "Hash": "CAE22015013F85B1BC35E5BAF4A4AAC1CF2B7EA24AA80F4AB9A876B5DE7651ED"
+  },
+  {
+    "Path": "H:\\ACTOR_DEV_ENV\\apostille-mirror\\ai_registry.json",
+    "Hash": "B1FBD360F68A924B2F6EEB66006A95731D56F9EC02A42C7382197F39DD563269"
+  },
+  {
+    "Path": "H:\\ACTOR_DEV_ENV\\apostille-mirror\\leaky_algorithm_matches.json",
+    "Hash": "9B1D46A83042DA380673949B9E75E42931AAD8B151E03630AC4F7F59022C6A19"
+  },
+  {
+    "Path": "H:\\ACTOR_DEV_ENV\\apostille-mirror\\terminal_stats.csv",
+    "Hash": "559C40A42508503038A269B46AFF13D2CB42231764CC5D5B4F2EA9FBE61BD4BC"
+  },
+  {
+    "Path": "H:\\ACTOR_DEV_ENV\\apostille-mirror\\anomaly_marker_7_matches.json",
+    "Hash": "6DFF0ACBEB6D7048CD847F0781FD447F5F660D365E007FB86DD53E1BC31FF4EC"
+  },
+  {
+    "Path": "H:\\ACTOR_DEV_ENV\\apostille-mirror\\apple_device_links.json",
+    "Hash": "8ABC68FADB7A3DA6AF1B14B7074C9BE365120D860186E218FB3D541A4CA96585"
+  },
+  {
+    "Path": "H:\\ACTOR_DEV_ENV\\apostille-mirror\\FORENSIC_TIMELINE_20260611.json",
+    "Hash": "C498B117E30A024D4324E0A0F531777FFD1267489F208B2A9FD94831B583829B"
+  }
+]

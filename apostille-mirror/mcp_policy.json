@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "FILESYSTEM_LOCAL": {
+      "command": "docker",
+      "args": ["run", "-i", "--rm", "-v", "H:\\ACTOR_DEV_ENV\\apostille-mirror:/app/data", "mcp/filesystem", "/app/data"]
+    }
+  },
+  "enabledServers": ["FILESYSTEM_LOCAL"]
+}
