@@ -1108,6 +1108,12 @@ def _read_file_safely(path: str | pathlib.Path) -> bytes:
       OSError: For other filesystem errors.
   """
   file_path = pathlib.Path(path)
+  # Check if path is a directory first (Windows raises PermissionError
+  # instead of IsADirectoryError when trying to read a directory)
+  if file_path.is_dir():
+    raise IsADirectoryError(
+        f"Path is a directory, not a file: '{file_path}'"
+    )
   try:
     return file_path.read_bytes()
   except FileNotFoundError as exc:
