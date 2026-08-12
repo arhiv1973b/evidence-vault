@@ -205,5 +205,52 @@
     "method": "Принудительная смена карты + обнуление баланса",
     "timestamp": "2026-04-25T13:37Z",
     "merkleRoot": "CFC 9a2465bd...e77"
-  }
+  },
+  "projectionNodes": [
+    {
+      "id": "projection-jus-cogens-proof",
+      "title": "JUS COGENS PROOF STREAM",
+      "kind": "html",
+      "source": "jus-cogens-proof-macheret.html",
+      "preview": "Open the proof stream and legal-equation view.",
+      "download": null,
+      "badge": "STREAM"
+    },
+    {
+      "id": "projection-registry-fixed",
+      "title": "APOSTILLE REGISTRY",
+      "kind": "html",
+      "source": "apostille-registry-fixed.html",
+      "preview": "Registry of 90 apostilled records.",
+      "download": null,
+      "badge": "90"
+    },
+    {
+      "id": "projection-timeline",
+      "title": "FORENSIC TIMELINE",
+      "kind": "html",
+      "source": "timeline.html",
+      "preview": "Chronological evidence walk-through.",
+      "download": null,
+      "badge": "1997–2026"
+    },
+    {
+      "id": "projection-pdf-report",
+      "title": "FINAL REPORT PDF",
+      "kind": "pdf",
+      "source": "../Raport_Jus_Cogens_Macheret_Auto-Deconspirare_Final.pdf",
+      "preview": "Local report PDF mirrored beside the worktree.",
+      "download": "../Raport_Jus_Cogens_Macheret_Auto-Deconspirare_Final.pdf",
+      "badge": "PDF"
+    },
+    {
+      "id": "projection-image-apostille",
+      "title": "APOSTILLE IMAGE MIRROR",
+      "kind": "image",
+      "source": "F:/Мой диск/ACTOR_DEV_ENV/apostille-mirror/mirrors/Verified_Apostilles_PNG/3S6V078ZELJK9_EVIDENCE-1.png",
+      "preview": "Real mirrored apostille image from the Google Drive sync area.",
+      "download": "F:/Мой диск/ACTOR_DEV_ENV/apostille-mirror/mirrors/Verified_Apostilles_PNG/3S6V078ZELJK9_EVIDENCE-1.png",
+      "badge": "IMG"
+    }
+  ]
 }

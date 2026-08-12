@@ -211,6 +211,53 @@
       font-size: 0.75em;
       color: var(--text-muted);
     }
+
+    .proj-card {
+      background: rgba(6, 15, 26, 0.92);
+      border: 1px solid var(--border);
+      padding: 14px 16px;
+      min-width: 220px;
+      max-width: 320px;
+    }
+
+    .proj-badge {
+      display: inline-block;
+      margin-bottom: 8px;
+      padding: 3px 8px;
+      font-family: var(--font-mono);
+      font-size: 10px;
+      color: var(--gold-bright);
+      border: 1px solid var(--gold);
+    }
+
+    .proj-title {
+      font-family: var(--font-head);
+      font-size: 0.95em;
+      margin-bottom: 6px;
+      color: #fff;
+    }
+
+    .proj-preview {
+      font-size: 0.85em;
+      color: var(--text-muted);
+      margin-bottom: 10px;
+    }
+
+    .proj-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .proj-btn {
+      display: inline-block;
+      padding: 6px 10px;
+      border: 1px solid var(--cyan);
+      color: var(--cyan-bright);
+      text-decoration: none;
+      font-family: var(--font-mono);
+      font-size: 0.75em;
+    }
   </style>
 </head>
 <body>
@@ -227,54 +274,43 @@
 
   <nav>
     <div style="font-weight: bold; color: var(--gold-bright);">⚖️ A©t0r Integrity Engine v6.9</div>
-    <div style="display: flex; gap: 15px;">
-      <a href="index.html">[Core Vault]</a>
-      <a href="timeline.html">[Chronology]</a>
-      <a href="jus-cogens-proof-macheret.html">[Jus Cogens]</a>
-      <a href="forensic-lock-theft-evidence.html">[Theft Evidence]</a>
+    <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+      <a href="index.html" data-i18n="nav-core">[Core Vault]</a>
+      <a href="timeline.html" data-i18n="nav-chronology">[Chronology]</a>
+      <a href="jus-cogens-proof-macheret.html" data-i18n="nav-jus">[Jus Cogens]</a>
+      <a href="forensic-lock-theft-evidence.html" data-i18n="nav-theft">[Theft Evidence]</a>
+      <a href="google-drive-mirror.html">[Google Drive Mirror]</a>
+      <a href="evidence-mosaic.html" data-i18n="nav-mosaic">[HTML Mosaic]</a>
     </div>
   </nav>
+
+  <div style="display:flex; justify-content:flex-end; margin: 0 0 16px; gap: 8px; flex-wrap: wrap;">
+    <span style="font-family: 'Share Tech Mono', monospace; color: var(--text-muted);" data-i18n="lang">Language</span>
+    <button type="button" data-lang-switch="ru" aria-pressed="true" style="padding:6px 10px; background:#07151d; color:#fff; border:1px solid #0c2e4a; cursor:pointer;">RU</button>
+    <button type="button" data-lang-switch="ro" aria-pressed="false" style="padding:6px 10px; background:#07151d; color:#fff; border:1px solid #0c2e4a; cursor:pointer;">RO</button>
+    <button type="button" data-lang-switch="en" aria-pressed="false" style="padding:6px 10px; background:#07151d; color:#fff; border:1px solid #0c2e4a; cursor:pointer;">EN</button>
+  </div>
 
   <div class="container">
     <header>
       <div class="subtitle">// CASE-MACHERET-1997-2026</div>
-      <h1>EVIDENCE PORTAL & <em>MASTER VAULT</em></h1>
-      <p style="color: var(--text-muted); margin-top: 10px;">Криптографическая фиксация и защита Jus Cogens / Erga Omnes норм.</p>
+      <h1 data-i18n="portal-title">EVIDENCE PORTAL & <em>MASTER VAULT</em></h1>
+      <p style="color: var(--text-muted); margin-top: 10px;" data-i18n="portal-subtitle">Криптографическая фиксация и защита Jus Cogens / Erga Omnes норм.</p>
     </header>
 
     <div class="main-grid">
       <div class="panel">
-        <div class="panel-title">📂 EVIDENCE NODES (Доказательные узлы)</div>
-        <ul class="evidence-list">
-          <li><a href="nodes/apostila (3).html">apostila (3).html</a></li>
-          <li><a href="nodes/apostila (1).html">apostila (1).html</a></li>
-          <li><a href="nodes/Către Judecătoria Chișinău (sediul Ciocana_Buiucani).html">Către Judecătoria Chișinău (sediul Ciocana_Buiucani).html</a></li>
-          <li><a href="nodes/1-568 от Центра (Конфликтующая копия пользователя Alexei Macheret 2022-02-14 02_1.12.08 PM).html">1-568 от Центра (Конфликтующая копия пользователя Alexei Macheret 2022-02-14 02_1.12.08 PM).html</a></li>
-          <li><a href="nodes/08 11 2006 - для Судов по ИДНП. 2005 года определяя невиность_Исправлен.signed.html">08 11 2006 - для Судов по ИДНП. 2005 года определяя невиность_Исправлен.signed.html</a></li>
-          <li><a href="nodes/Către Judecătoria Chișinău (sediul Ciocana_Buiucani).signed.html">Către Judecătoria Chișinău (sediul Ciocana_Buiucani).signed.html</a></li>
-          <li><a href="nodes/apostille_archive_english.html">apostille_archive_english.html</a></li>
-          <li><a href="nodes/apostille_registry_working.signed.html">apostille_registry_working.signed.html</a></li>
-          <li><a href="nodes/apostille_archive_english.signed.html">apostille_archive_english.signed.html</a></li>
-          <li><a href="nodes/A©t0r arhiv si actual reestrf_4.html">A©t0r arhiv si actual reestrf_4.html</a></li>
-          <li><a href="nodes/apostille_archive_english_fixed.html">apostille_archive_english_fixed.html</a></li>
-          <li><a href="nodes/A©t0r arhiv si actual reestrf_3.html">A©t0r arhiv si actual reestrf_3.html</a></li>
-          <li><a href="nodes/Actor of Moldova.html">Actor of Moldova.html</a></li>
-          <li><a href="nodes/apostila_2.html">apostila_2.html</a></li>
-          <li><a href="nodes/doumentii na nsasledstvo.html">doumentii na nsasledstvo.html</a></li>
-          <li><a href="nodes/Actor of Moldova.signed.html">Actor of Moldova.signed.html</a></li>
-          <li><a href="nodes/doumentii na nsasledstvo_1.html">doumentii na nsasledstvo_1.html</a></li>
-          <li><a href="nodes/+Виталий Чумак.конкретизируя r обязанность Налоговой.html">+Виталий Чумак.конкретизируя r обязанность Налоговой.html</a></li>
-          <li><a href="nodes/apostille_registry_working_2.signed.html">apostille_registry_working_2.signed.html</a></li>
-          <li><a href="nodes/doumentii na nsasledstvo_2.html">doumentii na nsasledstvo_2.html</a></li>
-        </ul>
+        <div class="panel-title" data-i18n="evidence-nodes">📂 EVIDENCE NODES (Доказательные узлы)</div>
+        <ul class="evidence-list" id="dynamic-node-list"></ul>
       </div>
 
       <div class="side-panel">
         <div class="panel">
-          <div class="panel-title">🧭 НАВИГАЦИЯ</div>
+          <div class="panel-title" data-i18n="navigation">🧭 НАВИГАЦИЯ</div>
           <div class="side-links">
             <a href="timeline.html">⏰ ХРОНОЛОГИЯ (1997–2026)</a>
             <a href="jus-cogens-proof-macheret.html">⚖️ JUS COGENS PROOF</a>
+            <a href="projection-stream.html">🎞️ PROJECTION STREAM</a>
             <a href="forensic-lock-theft-evidence.html">🔒 FORENSIC LOCK: THEFT</a>
             <a href="apostille-registry-fixed.html">📂 РЕЕСТР АПОСТИЛЕЙ (90)</a>
             <a href="evidence-roadmap.html">🗺️ ROADMAP РЕАБИЛИТАЦИИ</a>
@@ -282,10 +318,10 @@
         </div>
 
         <div class="panel" style="border-color: var(--gold);">
-          <div class="panel-title" style="color: var(--gold-bright);">🔒 INTEGRITY VERIFICATION</div>
+          <div class="panel-title" style="color: var(--gold-bright);" data-i18n="integrity">🔒 INTEGRITY VERIFICATION</div>
           <p style="font-size: 0.8em; font-family: var(--font-mono); color: var(--text-muted); word-break: break-all;">
             SHA256: 73791BBA234EDD342CC807CABE3D45238E81ACBCD91B89909980A5D4E2B73A04<br><br>
-            Status: Verified ✓<br>
+            <span data-i18n="site-status">Status: Verified ✓</span><br>
             Updated: 2026-07-04
           </p>
         </div>
@@ -293,10 +329,13 @@
     </div>
 
     <footer class="footer">
-      <p>CASE-MACHERET-1997-2026 | Master Evidence Archive</p>
+      <p data-i18n="portal-foot">CASE-MACHERET-1997-2026 | Master Evidence Archive</p>
     </footer>
   </div>
 
+  <div id="dynamic-projection" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center; margin: 8px 0 28px;"></div>
   <script src="wrappers/portal-enhancements.js"></script>
+  <script src="app.js"></script>
+  <script src="lang.js"></script>
 </body>
 </html>
