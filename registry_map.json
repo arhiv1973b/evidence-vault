@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "hub_root": "H:\\ACTOR_DEV_ENV\\copilot-worktrees\\apostille-mirror\\arhiv1973b-supreme-pancake",
+  "canonical_nodes": [
+    {
+      "id": "evidence-catalog",
+      "source": "EVIDENCE_CATALOG.md",
+      "path": "H:\\ACTOR_DEV_ENV\\copilot-worktrees\\apostille-mirror\\arhiv1973b-supreme-pancake\\EVIDENCE_CATALOG.md",
+      "kind": "catalog",
+      "notes": "Canonical catalog for the current worktree Hub context."
+    }
+  ],
+  "registry_bridge": {
+    "source": "EVIDENCE_CATALOG.md",
+    "target": "hub registry map",
+    "status": "active"
+  }
+}
