@@ -1,5 +1,12 @@
 # CASE-MACHERET-1997-2026: Объединенная хронология и фактология
 
+## Commit-style summary
+* **docs(release):** prepared a public Markdown release that consolidates the CASE-MACHERET-1997-2026 materials into a single overview document for open distribution, archiving, and independent review
+* **docs(timeline):** structured a consolidated procedural timeline showing the sequence of complaints, refusals, referrals, and repeated closures that together indicate a pattern of procedural blockage
+* **docs(evidence):** summarized the central factual circumstances, including the freezing of inherited assets, manipulation of identification data, disputed real-estate actions, and subsequent financial restrictions
+* **docs(legal):** framed the document around the alleged violation of core criminal-procedure guarantees, the right to an effective remedy, and the need for formally registered procedural acts
+* **docs(accessibility):** added an accessible opening summary for journalists, auditors, human-rights defenders, lawyers, and international observers who need a rapid entry point without reviewing the full internal archive
+
 ## 1. Основные факты и доказательная база
 * **Хищение наследственной массы:** Блокировка и принудительное обнуление баланса на сумму 25 210 256,15 MDL в системе FinComPay (апрель 2026).
 * **Цифровое уничтожение идентичности:** Системная подмена законного ИДНП 2000001159655 на фантомный идентификатор с суффиксом «...555» (ASP).
@@ -20,3 +27,11 @@
 * Искусственный процессуальный вакуум и лишение права на судебный контроль (ст. 313 УПК).
 * Нарушение ст. 28, ст. 19 УПК и ст. 6, 13 ЕКПЧ.
 * Требование: отмена административных отписок и регистрация по ст. 274 УПК с вынесением ордонансы.
+
+## 4. Handoff notes for the next agent
+* Already completed: the release text is in English at the top-level summary, the commit-style summary is expanded, and the branch is pushed.
+* Do not duplicate: do not rewrite the intro or summary unless you are adding a new deployment section or confirmed target-specific instructions.
+* Follow-up needed: identify the exact deployment target and required secrets before any deploy command is attempted.
+* Exact handoff file for the next agent: `C:\Users\arhiv\.copilot\session-state\e4960773-80ae-4bc5-97e2-45e432513833\files\handshake_for_agent.md`
+* Handoff points: review this release file, confirm the target, confirm the secrets, then add only target-specific deployment instructions.
+* Hard stop: if target or runtime secrets remain unconfirmed, do not change deployment notes, do not push, and do not infer infrastructure from generic DEPLOYMENT.md files in other worktrees.
