@@ -1,0 +1,13 @@
+# A©TOR_KEY="# [⚖ A©tor Declaration]"
+# Legal Scope: Jus Cogens / Erga Omnes / UDHR 1948
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 3
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
