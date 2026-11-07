@@ -1,0 +1,12 @@
+{
+  "node": "SOLD_VS_TRANSACTION_ANOMALY_NODE",
+  "timestamp": "2026-11-08T00:00:00Z",
+  "payload": {
+    "sms_reported_sold": "1578.71 USD",
+    "associated_transaction": "ANULARE.GOOGLE*GOOGLE ONE",
+    "anomaly_type": "Currency mismatch and balance reporting discrepancy",
+    "evidence_reference": "EVIDENCE_FINCOMBANK_THEFT_REPORT_20261107.pdf"
+  },
+  "status": "ESCALATED_TO_INTERNATIONAL_COMPLIANCE",
+  "a©tor_key": "# [⚖ A©tor Declaration]"
+}
