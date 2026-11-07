@@ -1,0 +1,18 @@
+{
+  "node": "INTERNATIONAL_BROADCAST_NODE",
+  "timestamp": "2026-11-07T10:13:00Z",
+  "payload": {
+    "from": "Alexei Maceret <alexeimaceret7@gmail.com>",
+    "to": ["moneyval@coe.int", "info@publications.europa.eu"],
+    "cc": ["communications@mail.whitehouse.gov", "chisinauprotocol@state.gov"],
+    "subject": "URGENT AML RED FLAG: Syndicated Asset Diversion & Procedural Sabotage - FinComBank S.A. / IDNP 2000001159655",
+    "digital_seal": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2"
+  },
+  "status": "ESCALATED_TO_INTERNATIONAL_COMPLIANCE",
+  "related_documents": [
+    "LEGAL_MEMORANDUM_PROCESSUAL_CLARIFICATION_20261107.md",
+    "LEGAL_MEMORANDUM_PROCESSUAL_CLARIFICATION_RO_20261107.md"
+  ],
+  "case": "CASE-MACHERET-1997-2026",
+  "key": "# [⚖ A©tor Declaration]"
+}
