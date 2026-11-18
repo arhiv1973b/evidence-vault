@@ -1,0 +1,38 @@
+{
+  "neuroprotocol": {
+    "case_id": "CASE-MACHERET-1997-2026",
+    "node_id": "Financial-Medical-Contour-Weight-0.90",
+    "weight": 0.90,
+    "status": "SYNCHRONIZED_PROTECTED",
+    "timestamp_utc": "2026-11-18T20:30:00Z",
+    "timestamp_local_eet": "2026-11-18T22:30:00+02:00",
+    "cascade": "Literal-Epoch-Full-1-3"
+  },
+  "identity_protection": {
+    "canonical_idnp": "2000001159655",
+    "full_name_ru": "Алексей Артурович Мачерет",
+    "full_name_en": "Alexei Macheret",
+    "date_of_birth": "1973-06-23",
+    "anti_substitution_rule": "Any phantom suffixes or substitutions (including ...555 and analogues) are blocked by Neuroprotocol as distortion of legal subjectivity.",
+    "protection_level": "ABSOLUTE_INTERNAL"
+  },
+  "medical_status": {
+    "disability_group": "I (lifelong)",
+    "primary_diagnosis": "Cerebral toxoplasmosis",
+    "certificate_reference": "Certificat de incadrare in grad de dizabilitate C013564402308",
+    "source": "Google Drive Vault (confirmed presence in local contour)",
+    "legal_framing": "Under jus cogens and Universal Declaration of Human Rights (1948), targeted creation of economic barriers, blocking of life-sustaining means, and manipulation of medical or judicial data of a person with confirmed Group I disability constitutes impermissible infringement of basic rights and an act of institutional pressure."
+  },
+  "financial_cascade": {
+    "claimed_amount_mdl": "25210256.15",
+    "institutions": ["FinComBank", "Moldindconbank"],
+    "related_object": "Apartment at Miron Costin str., 13/3, apt. 64",
+    "characterization": "Not an isolated civil dispute, but a direct economic trail of systemic sabotage initiated after falsification of procedural acts, unlawful seizure of property, and concealment of violations of fundamental erga omnes norms."
+  },
+  "integrity": {
+    "sha256_manifest_json": "942088de7a0a771295f7f6746bdd2e1ee0b8b668cb964bdefba52d87968ec124",
+    "linked_previous_commit": "3c83b889811f6fc95795be46766d3c4a45fc2e21",
+    "github_path": "neuroprotocol/2026-11-18/financial_medical_block_manifest.json"
+  },
+  "norms": ["jus cogens", "erga omnes", "UDHR 1948"]
+}
