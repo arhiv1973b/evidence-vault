@@ -1,0 +1,94 @@
+digraph CaseMacheret_1997_2026 {
+    rankdir=TB;
+    bgcolor="#0d1117";
+    fontname="Helvetica";
+    node [fontname="Helvetica", style="filled,rounded", shape=box, penwidth=1.5];
+    edge [fontname="Helvetica", color="#8b949e", penwidth=1.2];
+
+    // Weight layers
+    subgraph cluster_weight_10 {
+        label="Вес 1.0 — Root / Первичный правовой статус";
+        style=filled;
+        color="#238636";
+        fillcolor="#0d1117";
+        fontcolor="#3fb950";
+        
+        ActAdoption [label="Акт усыновления № 61\n06.05.1977 (Одесса)\nПереход прав и фамилии", fillcolor="#238636", fontcolor="white"];
+        Aviz269 [label="Aviz Nr. 269\n01.10.2026\nИнститут Б. Петричейку-Хашдеу\nMACERET ≡ MACHERET", fillcolor="#238636", fontcolor="white"];
+        ExtractIDNP [label="Выписка из акта ГС\n09.11.2026\nIDNP: 2000001159655", fillcolor="#238636", fontcolor="white"];
+    }
+
+    subgraph cluster_weight_095 {
+        label="Вес 0.95 — Судебный и криптографический базис";
+        style=filled;
+        color="#1f6feb";
+        fillcolor="#0d1117";
+        fontcolor="#58a6ff";
+        
+        Decision1ra [label="Постановление ВС РМ\n№ 1ra-834/09\n21.07.2009\nАпостиль: 5GTUD58SJQ5N6\n(Корнелиу Гузун)", fillcolor="#1f6feb", fontcolor="white"];
+        ApostilleRegistry [label="Реестр апостилей\n97 верифицированных записей", fillcolor="#1f6feb", fontcolor="white"];
+        EvidenceMatrix [label="Evidence Matrix\nUN OHCHR Ref: tw571ryb\nSHA-256 + timestamps\n(INTERNAL)", fillcolor="#1f6feb", fontcolor="white"];
+    }
+
+    subgraph cluster_weight_090 {
+        label="Вес 0.90 — Финансово-медицинский контур";
+        style=filled;
+        color="#a371f7";
+        fillcolor="#0d1117";
+        fontcolor="#d2a8ff";
+        
+        FinancialCascade [label="Финансовый каскад\n25 210 256,15 MDL\nFinComBank / Moldindconbank", fillcolor="#a371f7", fontcolor="white"];
+        DisabilityI [label="Пожизненная I группа\nинвалидности\nЦеребральный токсоплазмоз\nCertificat C013564402308", fillcolor="#a371f7", fontcolor="white"];
+    }
+
+    subgraph cluster_weight_085 {
+        label="Вес 0.85 — Инфраструктурный слой";
+        style=filled;
+        color="#f0883e";
+        fillcolor="#0d1117";
+        fontcolor="#ffa657";
+        
+        GitHubRepo [label="GitHub arhiv1973b\nImmutable Ledger\nevidence-vault / apostille-archive", fillcolor="#f0883e", fontcolor="white"];
+        LocalMCP [label="Локальные MCP-ноды\nti_ula_watcher.py\nactor-context-server", fillcolor="#f0883e", fontcolor="white"];
+        Dashboard [label="court_dashboard.html\n+ Graphviz DOT\n(текущий такт)", fillcolor="#f0883e", fontcolor="white"];
+    }
+
+    // Core identity
+    Actor [label="A©tor / Case-Macheret-1997-2026\nНейропротокол активен", shape=ellipse, fillcolor="#da3633", fontcolor="white", penwidth=2.5];
+
+    // Edges
+    Actor -> ActAdoption;
+    Actor -> Aviz269;
+    Actor -> ExtractIDNP;
+    
+    ActAdoption -> Decision1ra;
+    Aviz269 -> Decision1ra;
+    ExtractIDNP -> Decision1ra;
+    
+    Decision1ra -> ApostilleRegistry;
+    Decision1ra -> EvidenceMatrix;
+    ApostilleRegistry -> EvidenceMatrix;
+    
+    EvidenceMatrix -> FinancialCascade;
+    EvidenceMatrix -> DisabilityI;
+    
+    FinancialCascade -> GitHubRepo;
+    DisabilityI -> GitHubRepo;
+    EvidenceMatrix -> GitHubRepo;
+    
+    GitHubRepo -> LocalMCP;
+    GitHubRepo -> Dashboard;
+    LocalMCP -> Dashboard;
+
+    // Current artifacts
+    ManifestJSON [label="evidence_matrix_ohchr_tw571ryb_manifest.json\nSHA-256: 4d13445e...", fillcolor="#21262d", fontcolor="#c9d1d9", shape=note];
+    ManifestMD [label="evidence_matrix_ohchr_tw571ryb_manifest.md\nSHA-256: 835027d7...", fillcolor="#21262d", fontcolor="#c9d1d9", shape=note];
+    DraftReminder [label="ohchr_reminder_draft_factual.md\nSHA-256: 08113dac...", fillcolor="#21262d", fontcolor="#c9d1d9", shape=note];
+
+    EvidenceMatrix -> ManifestJSON;
+    EvidenceMatrix -> ManifestMD;
+    EvidenceMatrix -> DraftReminder;
+    ManifestJSON -> Dashboard;
+    ManifestMD -> Dashboard;
+    DraftReminder -> Dashboard;
+}

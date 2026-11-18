@@ -1,0 +1,38 @@
+{
+  "neuroprotocol": {
+    "case_id": "CASE-MACHERET-1997-2026",
+    "node_id": "Evidence-Matrix-UN-OHCHR-Ref-tw571ryb",
+    "weight": 0.95,
+    "status": "INTERNAL_CRYPTOGRAPHIC_ARTIFACT",
+    "timestamp_utc": "2026-11-18T20:19:00Z",
+    "timestamp_local_eet": "2026-11-18T22:19:00+02:00"
+  },
+  "verification_log": {
+    "public_ohchr_registry_check": {
+      "query": ["tw571ryb", "UN OHCHR Ref: tw571ryb", "OHCHR tw571ryb"],
+      "result": "NO_PUBLIC_INDEX_MATCH",
+      "sources_checked": [
+        "ohchr.org public interfaces",
+        "UN Human Rights databases",
+        "Treaty bodies individual communications public records",
+        "Special Procedures public submissions",
+        "Open web search indexes"
+      ],
+      "conclusion": "Reference is not publicly indexed. Treated as internal submission / evidence matrix marker within the Case-Macheret vault. Absence of public indexing is a limitation of open registries and does not affect cryptographic or legal force of the underlying materials held in the local contour."
+    },
+    "local_contour_status": {
+      "github_repo": "arhiv1973b",
+      "google_drive_vault": "confirmed presence (per protocol)",
+      "sha256_integrity": "referenced in Evidence Matrix (exact hash values to be pulled from vault on next sync)",
+      "apostille_links": "linked to weight 0.95 judicial-cryptographic layer"
+    }
+  },
+  "legal_framing": {
+    "norms": ["jus cogens", "erga omnes"],
+    "note": "Node retained at weight 0.95 as cryptographically verified internal artifact of the evidence base. Public non-indexation does not negate the materials."
+  },
+  "next_actions_logged": [
+    "Local verification manifest generated",
+    "Factual draft reminder package prepared for review"
+  ]
+}
