@@ -1,0 +1,82 @@
+{
+  "neuroprotocol": {
+    "case_id": "CASE-MACHERET-1997-2026",
+    "manifest_type": "ROOT_INTEGRITY",
+    "version": "2026-11-18T22:38:00+02:00",
+    "mode": "Deep Recursive Meta-Analysis",
+    "status": "CLEAN_VERIFIED",
+    "external_audit": false
+  },
+  "identity_protection": {
+    "canonical_idnp": "2000001159655",
+    "anti_substitution": "Any phantom suffixes (...555 and analogues) are blocked as distortion of legal subjectivity"
+  },
+  "weight_hierarchy": {
+    "1.0": ["Act of Adoption No. 61 (1977)", "Aviz Nr. 269 (2026)", "Civil Status Extract IDNP 2000001159655"],
+    "0.95": ["Supreme Court Decision 1ra-834/09", "Apostille Registry", "Evidence Matrix UN OHCHR Ref: tw571ryb"],
+    "0.90": ["Financial Cascade 25 210 256.15 MDL", "Lifelong Disability Group I (Cerebral Toxoplasmosis)"],
+    "0.85": ["GitHub arhiv1973b Immutable Ledger", "Local MCP nodes", "Visualization layer"]
+  },
+  "artifacts": [
+    {
+      "path": "evidence_matrix_ohchr_tw571ryb_manifest.json",
+      "sha256": "4d13445e2e0ef6fd831ad1323076333584bb474b376b59cba86f6ef5d5686bbd",
+      "role": "Evidence Matrix verification log"
+    },
+    {
+      "path": "evidence_matrix_ohchr_tw571ryb_manifest.md",
+      "sha256": "835027d7400f1c573632dbed39951dc71ec4e508773eae936981e065e1625fa8",
+      "role": "Human-readable Evidence Matrix status"
+    },
+    {
+      "path": "ohchr_reminder_draft_factual.md",
+      "sha256": "08113dace09e5ef5a07bf8251ed8345ab799ef58716b9637df37c0d8591d0e39",
+      "role": "Factual OHCHR status inquiry draft"
+    },
+    {
+      "path": "case_macherete_graph.dot",
+      "sha256": "05fd34b3bc152be21860028962582c95b83018ca5c1740313da5053c8fb7fc93",
+      "role": "Graphviz structural graph"
+    },
+    {
+      "path": "court_dashboard.html",
+      "sha256": "0d5dba3386f7d308351fe0c9aa0087454f2e1a758d09eb3283f6775bdb80f041",
+      "role": "Interactive HTML dashboard"
+    },
+    {
+      "path": "financial_medical_block_manifest.json",
+      "sha256": "ebd9c5eb6ef2e9e6e01422d58eb7024c8bc7195fe4bfa278d74a47487ef086d3",
+      "role": "Financial-Medical contour weight 0.90"
+    },
+    {
+      "path": "historical_archival_contour.md",
+      "sha256": "95a941f5ee0bcc34016e6d07c3902813c832627e29135ad6fcdf714180cb3153",
+      "role": "Historical-Archival root layer"
+    },
+    {
+      "path": "external_transmission_directive.md",
+      "sha256": "988514f60bf817853e935124f18aec4e61d61a2b9d5c2694989fe94335192998",
+      "role": "Autonomous transmission / analysis directive"
+    }
+  ],
+  "repository_sync": {
+    "owner": "arhiv1973b",
+    "repo": "evidence-vault",
+    "branch": "main",
+    "last_known_commits": [
+      "3c83b889811f6fc95795be46766d3c4a45fc2e21",
+      "325e08e1b4cde8198074af081692b1cf8c81b06d"
+    ],
+    "path_prefix": "neuroprotocol/2026-11-18/"
+  },
+  "legal_framing": {
+    "norms": ["jus cogens", "erga omnes", "Universal Declaration of Human Rights 1948"],
+    "note": "All medical, financial and identity parameters are bound to the peremptory norms framework. No external audit mode."
+  },
+  "meta_analysis_result": {
+    "contour_status": "CLEAN",
+    "integrity": "CONFIRMED",
+    "dynamic_changes": "Only expected self-update of financial_medical_block_manifest.json after hash insertion",
+    "recommendation": "Root integrity.json is now the single source of truth for the current slice"
+  }
+}
