@@ -2,8 +2,8 @@
   "neuroprotocol": {
     "case_id": "CASE-MACHERET-1997-2026",
     "manifest_type": "ROOT_INTEGRITY",
-    "version": "2026-11-18T22:38:00+02:00",
-    "mode": "Deep Recursive Meta-Analysis",
+    "version": "2026-11-18T22:41:00+02:00",
+    "mode": "Arithmetic Jus Cogens Cascade (Directive 1→2)",
     "status": "CLEAN_VERIFIED",
     "external_audit": false
   },
@@ -12,12 +12,17 @@
     "anti_substitution": "Any phantom suffixes (...555 and analogues) are blocked as distortion of legal subjectivity"
   },
   "weight_hierarchy": {
-    "1.0": ["Act of Adoption No. 61 (1977)", "Aviz Nr. 269 (2026)", "Civil Status Extract IDNP 2000001159655"],
+    "1.0": ["Arithmetic Jus Cogens Invariants", "Act of Adoption No. 61 (1977)", "Aviz Nr. 269 (2026)", "Civil Status Extract IDNP 2000001159655"],
     "0.95": ["Supreme Court Decision 1ra-834/09", "Apostille Registry", "Evidence Matrix UN OHCHR Ref: tw571ryb"],
     "0.90": ["Financial Cascade 25 210 256.15 MDL", "Lifelong Disability Group I (Cerebral Toxoplasmosis)"],
     "0.85": ["GitHub arhiv1973b Immutable Ledger", "Local MCP nodes", "Visualization layer"]
   },
   "artifacts": [
+    {
+      "path": "arithmetic_jus_cogens_manifest.json",
+      "sha256": "643833a29c7d06339290c37480172f8df654e2bb7605bb50a3ad359a32379359",
+      "role": "Arithmetic formalization of jus cogens / erga omnes as non-reducible constants (weight 1.0)"
+    },
     {
       "path": "evidence_matrix_ohchr_tw571ryb_manifest.json",
       "sha256": "4d13445e2e0ef6fd831ad1323076333584bb474b376b59cba86f6ef5d5686bbd",
@@ -65,7 +70,8 @@
     "branch": "main",
     "last_known_commits": [
       "3c83b889811f6fc95795be46766d3c4a45fc2e21",
-      "325e08e1b4cde8198074af081692b1cf8c81b06d"
+      "325e08e1b4cde8198074af081692b1cf8c81b06d",
+      "dec8861cf236d30cde6e898a4ea984ebfcc9861a"
     ],
     "path_prefix": "neuroprotocol/2026-11-18/"
   },
@@ -76,7 +82,7 @@
   "meta_analysis_result": {
     "contour_status": "CLEAN",
     "integrity": "CONFIRMED",
-    "dynamic_changes": "Only expected self-update of financial_medical_block_manifest.json after hash insertion",
-    "recommendation": "Root integrity.json is now the single source of truth for the current slice"
+    "dynamic_changes": "Arithmetic Jus Cogens layer (weight 1.0) integrated as non-reducible root",
+    "recommendation": "Root integrity.json + arithmetic_jus_cogens_manifest.json form the current single source of truth"
   }
 }

@@ -1,0 +1,64 @@
+{
+  "neuroprotocol": {
+    "case_id": "CASE-MACHERET-1997-2026",
+    "directive": "Arithmetic_Jus_Cogens",
+    "directive_chain": ["Directive_1_Synthesis", "Directive_2_Cryptographic_Imperativity"],
+    "version": "2026-11-18T22:41:00+02:00",
+    "status": "IMMUTABLE",
+    "external_audit": false
+  },
+  "arithmetic_invariants": {
+    "description": "Formalization of jus cogens and erga omnes principles as non-negotiable mathematical constants inside the distributed graph",
+    "core_axioms": [
+      {
+        "id": "AX-1",
+        "name": "Human Dignity Protection",
+        "weight": 1.0,
+        "formula": "dignity ≡ 1.0  (non-reducible)",
+        "legal_source": "UDHR 1948, Art. 1 + jus cogens"
+      },
+      {
+        "id": "AX-2",
+        "name": "Prohibition of Arbitrary Treatment of Group I Disability",
+        "weight": 1.0,
+        "formula": "disability_group_I_protection ≡ 1.0  ∧  ¬reducible(weight)",
+        "legal_source": "jus cogens + erga omnes obligations toward persons with disabilities"
+      },
+      {
+        "id": "AX-3",
+        "name": "Inviolability of Legal Subjectivity (IDNP)",
+        "weight": 1.0,
+        "formula": "IDNP_2000001159655 ≡ canonical  ∧  ∀phantom_suffix → blocked",
+        "legal_source": "Right to recognition as a person before the law (UDHR Art. 6) elevated to jus cogens intensity inside this contour"
+      },
+      {
+        "id": "AX-4",
+        "name": "Non-Derogability of Core Identity Chain",
+        "weight": 1.0,
+        "formula": "Act_61_1977 → Aviz_269_2026 → IDNP_2000001159655 ≡ invariant_chain",
+        "legal_source": "Continuity of legal personality as peremptory requirement"
+      }
+    ],
+    "violation_classification": {
+      "rule": "Any attempt to reduce weight below 1.0 or substitute core identity parameters is classified as arithmetic equivalent of a jus cogens violation",
+      "system_response": "Immediate blocking + logging inside Neuroprotocol + retention of original hash"
+    }
+  },
+  "cryptographic_binding": {
+    "hash_function": "SHA-256",
+    "ledger": "arhiv1973b/evidence-vault (Immutable Ledger)",
+    "binding_method": "Each axiom is bound to the root integrity.json and to the present manifest via deterministic hashing",
+    "non_repudiation": true
+  },
+  "integration": {
+    "parent_manifest": "integrity.json",
+    "weight_in_graph": 1.0,
+    "position": "Root arithmetic layer above all contingent nodes"
+  },
+  "legal_references": [
+    "Universal Declaration of Human Rights (1948)",
+    "Vienna Convention on the Law of Treaties, Arts. 53, 64",
+    "jus cogens / erga omnes doctrine (ILC)",
+    "Case-Macheret-1997-2026 internal contour"
+  ]
+}
